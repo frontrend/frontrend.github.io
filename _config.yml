@@ -1,0 +1,10 @@
+# site info
+url: http://frontrend.github.com
+sitename: Frontrend powered by CyberAgent, Inc.
+tagline: The CyberAgent Frontrend Meetup is about everything frontend technology.
+title: Frontrend
+author: Frontrend
+
+# jekyll config
+markdown: rdiscount
+pygments: true

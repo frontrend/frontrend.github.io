@@ -1,0 +1,121 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ page.title }}</title>
+  <meta description="{{ site.tagline }}">
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="/stylesheets/app.css">
+	<script src="/javascripts/foundation/modernizr.foundation.js"></script>
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38010723-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+  <div class="row">
+    <div class="twelve columns">
+
+      <h1>Frontrend/<a href="/04">04</a></h1>
+      <h4 class="subheader">Key to better JavaScript developer.</h4>
+      <p><img src="{{ page.title-headr }}" style="width:100%"></p>
+      <hr>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-lang="ja" data-related="frontrend_ca" data-hashtags="frontrend_ca">ツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      <div class="fb-like" data-href="http://frontrend.github.com/" data-send="true" data-width="450" data-show-faces="true"></div>
+            <span id="fb-root"></span>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    </div>
+  </div>
+ 
+
+  <!-- Main Page Content and Sidebar -->
+ 
+  <div class="row">
+ 
+    <!-- Main Blog Content -->
+    <div class="nine columns" role="content">
+ 
+      <article>
+ 
+        <h3><a href="#">Yeaaaaaaaah!</a></h3>
+        <h6>Written by <a href="#">John Smith</a> on August 12, 2012.</h6>
+ 
+ 
+        {{ content }}
+ 
+        <div class="row">
+          <div class="three columns">
+            <p><img src="http://s.t32k.me/i/frontrend/sato.jpg"></p>
+          </div>
+          <div class="nine columns">
+            <p>株式会社サイバーエージェント Webディベロッパー
+
+1985年生まれ。渋谷でマークアップエンジニアとして、JavaScript/HTML5を中心にフロントエンド技術を探求中。バックエンド寄りWebエンジニアからの転身で、サーバサイドの経験と知識を活かしながら、現職サービスのフロント開発に取り組んでいる。詳しい情報・アクティビティは個人サイト http://aho.mu にて。</p>
+          </div>
+        </div>
+ 
+      </article>
+ 
+      <hr>
+ 
+    </div>
+ 
+    <!-- End Main Content -->
+ 
+    <!-- Sidebar -->
+ 
+    <aside class="three columns">
+ 
+      <h5>Sessions</h5>
+      <ul class="side-nav">
+        <li><a href="/vol-04">Session1 id:Layzie</a></li>
+        <li><a href="/vol-04">Session2 id:Layzie</a></li>
+        <li><a href="/vol-04">Session3 id:Layzie</a></li>
+        <li><a href="/vol-04">Session4 id:Layzie</a></li>
+      </ul>
+
+      <h5>Ad</h5>
+        <a href="http://www.cyberagent.co.jp/release/index2.html">
+        <img src="/images/ameba.png" alt=""><br><br>コミュニティ&amp;ゲーム SNS
+        </a>
+ 
+    </aside>
+ 
+    <!-- End Sidebar -->
+
+ 
+  <!-- End Main Content and Sidebar -->
+ 
+ 
+  <!-- Footer -->
+ 
+  <footer class="row">
+    <div class="twelve columns">
+      <hr>
+      <p>&copy; 2013 Frontrend powered by CyberAgent, Inc.</p>
+    </div>
+  </footer>
+ </div>
+  <!-- End Footer -->
+  <!-- Application Javascript, safe to override -->
+  <script src="javascripts/foundation/app.js"></script>
+</body>
+</html>
