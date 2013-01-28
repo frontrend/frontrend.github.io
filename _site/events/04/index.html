@@ -1,26 +1,23 @@
 <!doctype html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="ja"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Frontrend Vol.4 powered by CyberAgent</title>
   <meta description="The CyberAgent Frontrend Meetup is about everything frontend technology.">
-	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="/stylesheets/app.css">
 	<script src="/javascripts/foundation/modernizr.foundation.js"></script>
   <script>
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-38010723-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38010723-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </head>
 <body>
   <div class="row">
@@ -31,20 +28,11 @@
       <p><img src="http://atnd.org/event_images/0005/0807/frontrend4_original.jpg?1357532418" style="width:100%"></p>
       <hr>
       <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-lang="ja" data-related="frontrend_ca" data-hashtags="frontrend_ca">ツイート</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
       <div class="fb-like" data-href="http://frontrend.github.com/" data-send="true" data-width="450" data-show-faces="true"></div>
-            <span id="fb-root"></span>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
     </div>
   </div>
- 
+
+
 
   <!-- Main Page Content and Sidebar -->
  
@@ -54,7 +42,6 @@
     <div class="nine columns" role="content">
  
       <article>
- 
         <h3><a href="#">Yeaaaaaaaah!</a></h3>
         <h6>Written by <a href="#">John Smith</a> on August 12, 2012.</h6>
  
@@ -158,5 +145,19 @@
   <!-- End Footer -->
   <!-- Application Javascript, safe to override -->
   <script src="javascripts/foundation/app.js"></script>
+  <div id="fb-root"></div><!-- fb needs this -->
+<script>
+(function(d, s) {
+  var js,
+    　fjs = d.getElementsByTagName(s)[0],
+    　load = function(url, id) {
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.src = url; js.id = id;
+            fjs.parentNode.insertBefore(js, fjs);
+          };
+  load('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747', 'fbjssdk');
+  load('//platform.twitter.com/widgets.js', 'tweetjs');
+}(document, 'script'));
+</script>
 </body>
 </html>
