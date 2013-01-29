@@ -5,7 +5,7 @@ date: 2013-02-09
 title: Frontrend Vol.4 powered by CyberAgent, Inc.
 title-headr: /images/hd_04.jpg
 description: サイバーエージェントが主催するフロントエンド系技術セミナーです。HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝えします。
-vol: 04
+vol: '04'
 uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
 ---
