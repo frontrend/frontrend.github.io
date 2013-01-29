@@ -2,8 +2,10 @@
 layout: event
 category: event
 date: 2013-02-09
-title: Frontrend Vol.4 powered by CyberAgent
+title: Frontrend Vol.4 powered by CyberAgent, Inc.
 title-headr: /images/hd_04.jpg
+description: サイバーエージェントが主催するフロントエンド系技術セミナーです。HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝えします。
+uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
 ---
 
@@ -13,7 +15,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 <div class="row">
     <div class="three columns">
-        <img src="http://s.t32k.me/i/frontrend/hiraki.jpg">
+        <img src="/images/speakers/hiraki.jpg">
     </div>
     <div class="nine columns">
         <h5>平木 聡（ひらき さとる） <a href="http://layzie.hatenablog.com/about">id:Layzie</a></h5>
@@ -31,7 +33,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 <div class="row">
     <div class="three columns">
-        <img src="http://s.t32k.me/i/frontrend/mizuno.jpg">
+        <img src="/images/speakers/mizuno.jpg">
     </div>
     <div class="nine columns">
         <h5>水野 隼登（みずの はやと） <a href="https://twitter.com/pocotan001">@pocotan001</a></h5>
@@ -47,7 +49,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 <div class="row">
     <div class="three columns">
-        <img src="http://s.t32k.me/i/frontrend/saito.jpg">
+        <img src="/images/speakers/saito.jpg">
     </div>
     <div class="nine columns">
         <h5>斉藤 祐也（さいとう ゆうや） <a href="https://twitter.com/cssradar">@cssradar</a></h5>
@@ -66,7 +68,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 <div class="row">
     <div class="three columns">
-        <img src="http://s.t32k.me/i/frontrend/sato.jpg">
+        <img src="/images/speakers/sato.jpg">
     </div>
     <div class="nine columns">
         <h5>佐藤 歩（さとう あゆむ） <a href="https://twitter.com/ahomu">@ahomu</a></h5>

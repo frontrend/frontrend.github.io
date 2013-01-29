@@ -5,16 +5,16 @@
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ page.title }}</title>
-  <meta description="サイバーエージェントが主催するフロントエンド系技術セミナーです。
-HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝えします。">
+  <meta description="{{ page.description }}">
 	<link rel="stylesheet" href="/stylesheets/app.css">
 	<script src="/javascripts/foundation/modernizr.foundation.js"></script>
   {% include snippets/ga.html %}
 </head>
 <body>
+
   <div class="row">
     <div class="twelve columns">
-      <h1>Frontrend/<a href="/events/04">04</a></h1>
+      <h1>Frontrend/<a href="{{ page.uri }}">04</a></h1>
       <h4 class="subheader">Key to better JavaScript developer.</h4>
       <img src="{{ page.title-headr }}" alt="">
       <hr>
@@ -27,7 +27,7 @@ HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝
     <!-- Main Blog Content -->
     <div class="nine columns" role="content">
     <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
-    <div class="fb-like" data-href="http://frontrend.github.com/" data-send="false" data-width="300" data-show-faces="false"></div>
+    <div class="fb-like" data-href="{{ page.uri }}" data-send="false" data-width="300" data-show-faces="false"></div>
 
       <article class="event">
 
