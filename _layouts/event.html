@@ -15,8 +15,11 @@
   <div class="row">
     <div class="twelve columns">
       <h1 style="margin-bottom:-15px">Frontrend/<a href="{{ page.uri }}">{{ page.vol }}</a></h1>
-      <h4 class="subheader">Key to better JavaScript developer.</h4>
-      <img src="{{ page.title-headr }}" alt="">
+      <h5 class="subheader">Tokyo, {{ page.day }}</h5>
+      <div class="showcase">
+          <h4>{{ page.tagline }}</h4>
+          <img src="{{ page.title-headr }}" alt="">
+      </div>
       <hr>
     </div>
   </div>
@@ -26,7 +29,7 @@
   <div class="row">
     <!-- Main Blog Content -->
     <div class="nine columns" role="content">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-href="{{ page.uri }}" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-url="{{ page.uri }}" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
     <div class="fb-like" data-href="{{ page.uri }}" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false"></div>
 
       <article class="event">
@@ -42,8 +45,9 @@
  
     <!-- Sidebar -->
     <aside class="three columns">
-      <a class="twitter-timeline" href="https://twitter.com/search?q=%23frontrend" data-widget-id="295907562568679425">#frontrend に関するツイート</a>
-     <h5>Ad</h5>
+      <h5>Twitter</h5>
+        <a class="twitter-timeline" href="https://twitter.com/search?q=%23frontrend" data-widget-id="295907562568679425">#frontrend に関するツイート</a>
+     <h5>Sponsor</h5>
         <a href="http://www.cyberagent.co.jp/release/index2.html">
         <img src="/images/ameba.png" alt=""><br><br>コミュニティ&amp;ゲーム SNS
         </a>
@@ -53,14 +57,25 @@
  
   <!-- End Main Content and Sidebar -->
   <!-- Footer -->
- 
   <footer class="row">
     <div class="twelve columns">
-      <hr>
-      <p>&copy; 2013 Frontrend powered by CyberAgent, Inc.</p>
+      <hr />
+      <div class="row">
+        <div class="six columns">
+                <p>&copy; 2013 Frontrend powered by CyberAgent, Inc.</p>
+        </div>
+        <div class="six columns">
+          <ul class="inline-list right">
+            <li><a href="https://twitter.com/frontrend_ca">Twitter</a></li>
+            <li><a href="https://www.facebook.com/frontrend.ca">Facebook</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </footer>
+
  </div>
+
   <!-- End Footer -->
   <!-- Application Javascript, safe to override -->
   <!--script src="javascripts/foundation/app.js"></script-->

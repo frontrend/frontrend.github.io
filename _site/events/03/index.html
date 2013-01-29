@@ -1,0 +1,182 @@
+<!doctype html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Frontrend Vol.3 powered by CyberAgent, Inc.</title>
+  <meta description="サイバーエージェントが主催するフロントエンド系技術セミナーです。HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝えします。">
+	<link rel="stylesheet" href="/stylesheets/app.css">
+	<script src="/javascripts/foundation/modernizr.foundation.js"></script>
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38010723-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body>
+
+  <div class="row">
+    <div class="twelve columns">
+      <h1 style="margin-bottom:-15px">Frontrend/<a href="http://frontrend.github.com/events/03/">03</a></h1>
+      <h5 class="subheader">Tokyo, 21th November 2012</h5>
+      <div class="showcase">
+          <h4>Beyond the Speed!</h4>
+          <img src="/images/hd_03.jpg" alt="">
+      </div>
+      <hr>
+    </div>
+  </div>
+
+  <!-- Main Page Content and Sidebar -->
+ 
+  <div class="row">
+    <!-- Main Blog Content -->
+    <div class="nine columns" role="content">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-url="http://frontrend.github.com/events/03/" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
+    <div class="fb-like" data-href="http://frontrend.github.com/events/03/" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false"></div>
+
+      <article class="event">
+
+        <h4>CSSプリプロセッサの取扱説明書</h4>
+
+<p>多くの制作現場で導入が増えているCSSプリプロセッサ。LESS,Sass,Stylusといったものが取り上げられていますが、それぞれにどういった特徴があるのでしょうか。またCSSプリプロセッサを扱う上での注意点やデメリットにもフォーカスして解説します。</p>
+
+<div class="row">
+    <div class="three columns">
+        <img src="/images/speakers/tani.jpg">
+    </div>
+    <div class="nine columns">
+        <h5>谷 拓樹（たに ひろき） <a href="https://twitter.com/hiloki">@hiloki</a></h5>
+        <p>株式会社サイバーエージェント Webディベロッパー<br>
+    中小企業向けのアプリケーション開発、スタートアップでのスマートフォンサイト制作などを経て、現在はスマートフォンアプリの開発、テクニカルディレクションを担当している。 主な著書に「 <a href="http://www.amazon.co.jp/dp/4899772750/">魅せるiPhoneサイト</a> 」「 <a href="http://www.amazon.co.jp/dp/4844362232/">スマートフォン制作の教科書（共著）</a> 」。</p>
+    </div>
+</div>
+
+
+<hr />
+
+<h4>モバイル制作におけるパフォーマンス最適化について</h4>
+
+<p>世の中にはパフォーマンス最適化のためのベストプラクティスと呼ばれるものがたくさんありますが、一体どれから手をつければよいのしょうか、また一体どれが一番効果のある対策と言えるのでしょうか？一般論を言えば、ネットワーク改善から手をつけるべきで、その中でもHTTPリクエストを減らすのが一番効果的です。リクエストを減らすポピュラーなテクニックであるCSS SpriteをSass/Compassを利用しながら効率良く改善していきましょう。</p>
+
+<div class="row">
+    <div class="three columns">
+        <img src="/images/speakers/ishimoto.jpg">
+    </div>
+    <div class="nine columns">
+        <h5>石本 光司（いしもと こうじ） <a href="https://twitter.com/t32k">@t32k</a></h5>
+        <p>株式会社サイバーエージェント Webディベロッパー<br>
+1983年石川県生まれ。大学でデザインを専攻後、晴れてWebデザイナーになるが、コーディング好きが高じてWebデベロッパーに転身。主要な業務としてはHTML/CSS/JavaScriptといったフロントエンド全般を担当。また社内教育やマークアップ監査なども担当している。<br>
+また、個人ブログ『 <a href="http://t32k.me/mol/">MOL</a> 』 ではWebパフォーマンスやモバイルに関する記事を書いている。不定期でJavaScriptユーザーコミュニティ「 <a href="http://kanazawajs.tumblr.com/">kanazawa.js</a>  」を主催している。</p>
+    </div>
+</div>
+
+
+<hr />
+
+<h4>ビルドプロセスの自動化で効率アップ</h4>
+
+<p>プロジェクト開始時に使い回す初期設定ディレクトリを作ったり、パフォーマンス最適化のために画像の最適化、JavaScript、CSSの短縮、結合、LESSやSassをCSSに変換するなどそれぞれのタスクに適したツールはたくさんありますがこれらのタスクを一元化、自動化したいとおもいませんか？
+今回はGrunt.jsというnode.jsで動作するビルドツールを使ってこれらのタスクを自動化する方法について紹介します。</p>
+
+<div class="row">
+    <div class="three columns">
+        <img src="/images/speakers/sato.jpg">
+    </div>
+    <div class="nine columns">
+        <h5>佐藤 歩（さとう あゆむ） <a href="https://twitter.com/ahomu">@ahomu</a></h5>
+        <p>株式会社サイバーエージェント Webディベロッパー<br>
+1985年生まれ。渋谷でマークアップエンジニアとして、JavaScript/HTML5を中心にフロントエンド技術を探求中。バックエンド寄りWebエンジニアからの転身で、サーバサイドの経験と知識を活かしながら、現職サービスのフロント開発に取り組んでいる。詳しい情報・アクティビティは個人サイト <a href="http://aho.mu/">http://aho.mu</a> にて。</p>
+    </div>
+</div>
+
+
+<hr />
+
+<h4>コーディングの品質を保つドキュメンテーション、スタイルガイドの作り方</h4>
+
+<p>ウェブにはもともと従来のメディアよりも“早い”開発が可能であるという特性があります。その特性はこの数年で飛躍的な進化を遂げてきています。よりよいプロダクトを作る上で必須なイテレーションの土台となるのがスタイルガイドというワークフローではないでしょうか？<br/>
+今回は自信を持ってイテレーションを回すために知っておきたいスタイルガイドについて紹介します。</p>
+
+<div class="row">
+    <div class="three columns">
+        <img src="/images/speakers/saito.jpg">
+    </div>
+    <div class="nine columns">
+        <h5>斉藤 祐也（さいとう ゆうや） <a href="https://twitter.com/cssradar">@cssradar</a></h5>
+        <p>株式会社サイバーエージェント Webディベロッパー<br>
+1979年生まれ。ネバダ州立ラスベガス大学、プリントジャーナリズム学部卒。株式会社All Aboutで6年、2012年2月からは株式会社サイバーエージェントへ。
+
+個人ではフロントエンドデベロッパのためのミニブックというコンセプトのブログ <a href="http://css.studiomohawk.com/">CSS Radar</a>  をはじめ海外記事の翻訳を掲載している <a href="http://enja.studiomohawk.com/">en.ja</a> 、OSSのドキュメント翻訳コミュニティ <a href="https://github.com/enja-oss">en.ja OSS</a> を運営している。</p>
+    </div>
+</div>
+
+
+
+
+
+        <p class="panel" style="margin:50px 0; text-align:center">
+          <a href="http://atnd.org/events/32232" class="button large radius">参加登録サイトへ</a></p>
+ 
+      </article>
+    </div>
+    <!-- End Main Content -->
+ 
+    <!-- Sidebar -->
+    <aside class="three columns">
+      <h5>Twitter</h5>
+        <a class="twitter-timeline" href="https://twitter.com/search?q=%23frontrend" data-widget-id="295907562568679425">#frontrend に関するツイート</a>
+     <h5>Sponsor</h5>
+        <a href="http://www.cyberagent.co.jp/release/index2.html">
+        <img src="/images/ameba.png" alt=""><br><br>コミュニティ&amp;ゲーム SNS
+        </a>
+    </aside>
+    <!-- End Sidebar -->
+
+ 
+  <!-- End Main Content and Sidebar -->
+  <!-- Footer -->
+  <footer class="row">
+    <div class="twelve columns">
+      <hr />
+      <div class="row">
+        <div class="six columns">
+                <p>&copy; 2013 Frontrend powered by CyberAgent, Inc.</p>
+        </div>
+        <div class="six columns">
+          <ul class="inline-list right">
+            <li><a href="https://twitter.com/frontrend_ca">Twitter</a></li>
+            <li><a href="https://www.facebook.com/frontrend.ca">Facebook</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+ </div>
+
+  <!-- End Footer -->
+  <!-- Application Javascript, safe to override -->
+  <!--script src="javascripts/foundation/app.js"></script-->
+  <div id="fb-root"></div><!-- fb needs this -->
+<script>
+(function(d, s) {
+  var js,
+    　fjs = d.getElementsByTagName(s)[0],
+    　load = function(url, id) {
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.src = url; js.id = id;
+            fjs.parentNode.insertBefore(js, fjs);
+          };
+  load('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747', 'fbjssdk');
+  load('//platform.twitter.com/widgets.js', 'tweetjs');
+}(document, 'script'));
+</script>
+</body>
+</html>
