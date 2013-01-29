@@ -5,4 +5,4 @@ date: 2013-01-18
 title: Frontrend powered by CyberAgent, Inc.
 description: The CyberAgent Frontrend Meetup is about everything frontend technology.
 ---
-<img src="/images/frontrend.png" alt="Frontrend">
+<img src="/images/bg_logo.png" alt="Frontrend">
