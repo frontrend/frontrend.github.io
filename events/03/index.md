@@ -12,6 +12,19 @@ uri: http://frontrend.github.com/events/03/
 atnd: http://atnd.org/events/32232
 ---
 
+イベント名 |Frontrend Vol.3 powered by CyberAgent, Inc.
+---------|---------------------------------------------------------------
+日時     |2012年10月21日（日） 14:00 – 18:00（開場13:30）
+会場     |サイバーエージェント本社 17F セミナールーム
+定員     |120名
+講師     |谷 拓樹 @hiloki<br>石本 光司 @t32k<br>佐藤 歩 @ahomu<br>斉藤 祐也 @cssradar
+主催     |株式会社サイバーエージェント
+参加費    |無料
+事前登録  |必要（ATND）
+タグ     |#frontrend
+備考     |スクール形式（机あり）
+
+
 #### CSSプリプロセッサの取扱説明書
 
 多くの制作現場で導入が増えているCSSプリプロセッサ。LESS,Sass,Stylusといったものが取り上げられていますが、それぞれにどういった特徴があるのでしょうか。またCSSプリプロセッサを扱う上での注意点やデメリットにもフォーカスして解説します。
@@ -33,6 +46,8 @@ atnd: http://atnd.org/events/32232
 
 世の中にはパフォーマンス最適化のためのベストプラクティスと呼ばれるものがたくさんありますが、一体どれから手をつければよいのしょうか、また一体どれが一番効果のある対策と言えるのでしょうか？一般論を言えば、ネットワーク改善から手をつけるべきで、その中でもHTTPリクエストを減らすのが一番効果的です。リクエストを減らすポピュラーなテクニックであるCSS SpriteをSass/Compassを利用しながら効率良く改善していきましょう。
 
+<span class="label secondary radius"></span> - [Mobile Front-end Optimization Standard:2012](https://speakerdeck.com/t32k/mobile-front-end-optimization-standard-2012)
+
 <div class="row">
     <div class="three columns">
         <img src="/images/speakers/ishimoto.jpg">
@@ -51,6 +66,8 @@ atnd: http://atnd.org/events/32232
 
 プロジェクト開始時に使い回す初期設定ディレクトリを作ったり、パフォーマンス最適化のために画像の最適化、JavaScript、CSSの短縮、結合、LESSやSassをCSSに変換するなどそれぞれのタスクに適したツールはたくさんありますがこれらのタスクを一元化、自動化したいとおもいませんか？
 今回はGrunt.jsというnode.jsで動作するビルドツールを使ってこれらのタスクを自動化する方法について紹介します。
+
+<span class="label secondary radius"></span> - [ビルドプロセスの自動化で効率アップ](https://speakerdeck.com/ahomu/birudopurosesufalsezi-dong-hua-dexiao-lu-atupu)
 
 <div class="row">
     <div class="three columns">

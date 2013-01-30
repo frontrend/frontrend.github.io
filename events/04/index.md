@@ -12,6 +12,18 @@ uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
 ---
 
+イベント名 |Frontrend Vol.4 powered by CyberAgent, Inc.
+---------|---------------------------------------------------------------
+日時     |2013年2月9日（土） 14:00 – 18:00（開場13:30）
+会場     |サイバーエージェント本社 13F セミナールーム
+定員     |200名
+講師     |平木 聡 id:Layzie<br>佐藤 歩 @ahomu<br>水野 隼登 @pocotan001<br>斉藤 祐也 @cssradar
+主催     |株式会社サイバーエージェント
+参加費    |無料
+事前登録  |必要（ATND）
+タグ     |#frontrend
+備考     |スクール形式（机あり）
+
 #### JavaScript Development Tools – JavaScript開発の効率アップ
 
 JavaScriptは、ブラウザとテキストエディタがあれば開発できるプログラミング言語です。しかし、色々なツールを組み合わせる事によってスピーディかつ効率的に、JavaScriptでの開発が行なえるようになります。このセッションでは、Chrome Web Develper Toolを始めとするJavaScript開発をラクにしてくれる…そんなツールを紹介していきます。
