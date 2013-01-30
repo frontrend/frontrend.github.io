@@ -46,7 +46,7 @@ atnd: http://atnd.org/events/32232
 
 世の中にはパフォーマンス最適化のためのベストプラクティスと呼ばれるものがたくさんありますが、一体どれから手をつければよいのしょうか、また一体どれが一番効果のある対策と言えるのでしょうか？一般論を言えば、ネットワーク改善から手をつけるべきで、その中でもHTTPリクエストを減らすのが一番効果的です。リクエストを減らすポピュラーなテクニックであるCSS SpriteをSass/Compassを利用しながら効率良く改善していきましょう。
 
-<span class="label secondary radius"></span> - [Mobile Front-end Optimization Standard:2012](https://speakerdeck.com/t32k/mobile-front-end-optimization-standard-2012)
+<span class="label secondary radius">Deck</span> - [Mobile Front-end Optimization Standard:2012](https://speakerdeck.com/t32k/mobile-front-end-optimization-standard-2012)
 
 <div class="row">
     <div class="three columns">
@@ -67,7 +67,7 @@ atnd: http://atnd.org/events/32232
 プロジェクト開始時に使い回す初期設定ディレクトリを作ったり、パフォーマンス最適化のために画像の最適化、JavaScript、CSSの短縮、結合、LESSやSassをCSSに変換するなどそれぞれのタスクに適したツールはたくさんありますがこれらのタスクを一元化、自動化したいとおもいませんか？
 今回はGrunt.jsというnode.jsで動作するビルドツールを使ってこれらのタスクを自動化する方法について紹介します。
 
-<span class="label secondary radius"></span> - [ビルドプロセスの自動化で効率アップ](https://speakerdeck.com/ahomu/birudopurosesufalsezi-dong-hua-dexiao-lu-atupu)
+<span class="label secondary radius">Deck</span> - [ビルドプロセスの自動化で効率アップ](https://speakerdeck.com/ahomu/birudopurosesufalsezi-dong-hua-dexiao-lu-atupu)
 
 <div class="row">
     <div class="three columns">
