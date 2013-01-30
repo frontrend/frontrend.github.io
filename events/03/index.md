@@ -29,6 +29,8 @@ atnd: http://atnd.org/events/32232
 
 多くの制作現場で導入が増えているCSSプリプロセッサ。LESS,Sass,Stylusといったものが取り上げられていますが、それぞれにどういった特徴があるのでしょうか。またCSSプリプロセッサを扱う上での注意点やデメリットにもフォーカスして解説します。
 
+<span class="label secondary radius">Deck</span> - [CSSプリプロセッサの取扱説明書](http://www.slideshare.net/hiloki/css-16247228)
+
 <div class="row">
     <div class="three columns">
         <img src="/images/speakers/tani.jpg">
