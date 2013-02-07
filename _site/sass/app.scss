@@ -30,8 +30,14 @@
 		margin-top: 0;
 	}
 	table {
-		margin: 3em 0;
+		margin: 2em 0 3em;
 	}
+}
+.c {
+	text-align: center;
+}
+.sns img {
+	vertical-align: -10topx;
 }
 // ----------------------------------------
 // Import specific parts of Foundation by commenting the import "foundation"

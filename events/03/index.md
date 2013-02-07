@@ -15,13 +15,13 @@ atnd: http://atnd.org/events/32232
 イベント名 |Frontrend Vol.3 powered by CyberAgent, Inc.
 ---------|---------------------------------------------------------------
 日時     |2012年10月21日（日） 14:00 – 18:00（開場13:30）
-会場     |サイバーエージェント本社 17F セミナールーム
+会場     |[サイバーエージェント本社 17F セミナールーム](https://www.cyberagent.co.jp/company/access/tokyo.html)
 定員     |120名
-講師     |谷 拓樹 @hiloki<br>石本 光司 @t32k<br>佐藤 歩 @ahomu<br>斉藤 祐也 @cssradar
+講師     |谷 拓樹 <a href="https://twitter.com/hiloki">@hiloki</a><br>石本 光司 <a href="https://twitter.com/t32k">@t32k</a><br>佐藤 歩 <a href="https://twitter.com/ahomu">@ahomu</a><br>斉藤 祐也 <a href="https://twitter.com/cssradar">@cssradar</a>
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要（ATND）
-タグ     |#frontrend
+タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式（机あり）
 
 
@@ -101,5 +101,7 @@ atnd: http://atnd.org/events/32232
 個人ではフロントエンドデベロッパのためのミニブックというコンセプトのブログ <a href="http://css.studiomohawk.com/">CSS Radar</a>  をはじめ海外記事の翻訳を掲載している <a href="http://enja.studiomohawk.com/">en.ja</a> 、OSSのドキュメント翻訳コミュニティ <a href="https://github.com/enja-oss">en.ja OSS</a> を運営している。</p>
     </div>
 </div>
+
+<div class="alert-box alert c">このイベントは終了しました。</div>
 
 
