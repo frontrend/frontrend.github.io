@@ -28,7 +28,7 @@ atnd: http://atnd.org/events/35720
 
 JavaScriptは、ブラウザとテキストエディタがあれば開発できるプログラミング言語です。しかし、色々なツールを組み合わせる事によってスピーディかつ効率的に、JavaScriptでの開発が行なえるようになります。このセッションでは、Chrome Web Develper Toolを始めとするJavaScript開発をラクにしてくれる…そんなツールを紹介していきます。
 
-<div class="row">
+<div class="row" id="layzie">>
     <div class="three columns">
         <img src="/images/speakers/hiraki.jpg">
     </div>
@@ -46,7 +46,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 リッチなWebアプリケーションに対するニーズの増加に伴い、JavaScriptで十分なパフォーマンスを担保することが難しくなってきています。とりわけ、スマートフォンのような非力なデバイスでは一層シビアなチューニングが求められるでしょう。本セッションでは、もっともポピュラーなJavaScriptライブラリである「jQuery」を中心とした、いくつかのパフォーマンス解決のためのヒントについてご紹介させていただきます。
 
-<div class="row">
+<div class="row" id="pocotan001">
     <div class="three columns">
         <img src="/images/speakers/mizuno.jpg">
     </div>
@@ -62,7 +62,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 あとになってバグに悩まされるくらいなら、初めにテストを書いておいた方が開発スピードは速い。脱初心者を目指すならテストを意識したテストしやすいJavaScriptを知るのが近道。今回はテストしやすいJavaScriptと、JavaScriptのテストとはどんなものなのかについて紹介していきます。
 
-<div class="row">
+<div class="row" id="cssradar">
     <div class="three columns">
         <img src="/images/speakers/saito.jpg">
     </div>
@@ -81,7 +81,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 昨今のフロントエンドの開発シーンでは、さまざまなパラダイムシフトが起こっています。その中でも、MVC/MVVM/MVPアーキテクチャに代表されるような実装デザインに対する関心が高まっています。我々が今後1,2年の近い時代に向けて取り組むべき、このアーキテクチャの課題についてjQueryとBackboneを例に紹介していきます。
 
-<div class="row">
+<div class="row" id="ahomu">
     <div class="three columns">
         <img src="/images/speakers/sato.jpg">
     </div>
@@ -91,4 +91,6 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 1985年生まれ。渋谷でマークアップエンジニアとして、JavaScript/HTML5を中心にフロントエンド技術を探求中。バックエンド寄りWebエンジニアからの転身で、サーバサイドの経験と知識を活かしながら、現職サービスのフロント開発に取り組んでいる。詳しい情報・アクティビティは個人サイト <a href="http://aho.mu/">http://aho.mu</a> にて。</p>
     </div>
 </div>
+
+<div class="alert-box alert c">このイベントは終了しました。</div>
 
