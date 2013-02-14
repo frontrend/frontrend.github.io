@@ -92,5 +92,6 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
     </div>
 </div>
 
+<br>
 <div class="alert-box alert c">このイベントは終了しました。</div>
 

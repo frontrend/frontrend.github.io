@@ -102,6 +102,7 @@ atnd: http://atnd.org/events/32232
     </div>
 </div>
 
+<br>
 <div class="alert-box alert c">このイベントは終了しました。</div>
 
 
