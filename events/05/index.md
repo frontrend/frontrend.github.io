@@ -17,7 +17,7 @@ atnd: http://connpass.com/event/
 日時     |2013年5月25日（土） 14:00 – 18:00（開場13:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](https://www.cyberagent.co.jp/company/access/tokyo.html)
 定員     |140名
-講師     |小阪 智弘 <br>泉水 省吾 [@1000ch](https://twitter.com/ahomu)<br>原 一成 [@herablog](https://twitter.com/herablog)
+講師     |小阪 智弘 <br>泉水 省吾 [@1000ch](https://twitter.com/1000ch)<br>原 一成 [@herablog](https://twitter.com/herablog)
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要
