@@ -43,14 +43,13 @@ atnd: http://connpass.com/event/
 
 <h4 id="sensui">Functional JavaScript with Lo-Dash.js</h4>
 
-WebにおけるJavaScriptの担う役割は大きくなっており、いかに品質を担保するかが重要な課題になっています。  
-最近ではScalaやHaskellのような関数型言語が注目されていますが、そういったFunctionalなアプローチがもたらすメリットに注目し、JavaScriptにもFunctionalityを導入する方法を紹介します。
+WebにおけるJavaScriptの担う役割は大きくなっており、いかに品質を担保するかが重要な課題になっています。最近ではScalaやHaskellのような関数型言語が注目されていますが、はJavaScriptでもこの関数型アプローチができます。今回はそんなFunctionalなアプローチがもたらすメリットに着目し、JavaScriptに導入する方法を紹介します。
 
 <div class="row">
     <div class="three columns">
         <img src="/images/speakers/sensui.jpg">
     </div>
-    <div class="nine columns"><h5>泉水 省吾（せんすい しょうご）<a href="https://twitter.com/1000ch">@1000ch</a></h5>
+    <div class="nine columns"><h5>泉水 翔吾（せんすい しょうご）<a href="https://twitter.com/1000ch">@1000ch</a></h5>
     <p>株式会社サイバーエージェント Webディベロッパー<br>
     1987年千葉生まれ。プログラマー出身のWebディベロッパー。<br>
     JavaScript等のフロントエンド技術を中心に、日々ブラウザの気持ちを考えている一方で、プライベートではPythonもRubyもやる雑食系。  
