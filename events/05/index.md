@@ -35,7 +35,7 @@ atnd: http://connpass.com/event/
     <div class="nine columns"><h5>小阪 智弘（こさか ともひろ）</h5>
     <p>株式会社サイバーエージェント Webディベロッパー<br>
     1982年生まれ。2006年04月より株式会社サイバーエージェントに入社。<br>
-    社内でもあまり知られていないが新卒入社でなのでこういう機会に語る経歴などが特にない。FLASH・JavaScript/HTML5を中心にフロントエンド技術を広く浅く探求中！現在は<a href="http://fs.ameba.jp/">天空のクリスタリア</a>というソーシャルゲームの演出部分を主に担当。</p>
+    社内でもあまり知られていないが新卒入社でなのでこういう機会に語る経歴などが特にない。Flash・JavaScript/HTML5を中心にフロントエンド技術を広く浅く探求中！現在は<a href="http://fs.ameba.jp/">天空のクリスタリア</a>というソーシャルゲームの演出部分を主に担当。</p>
     </div>
 </div>
 
@@ -43,7 +43,7 @@ atnd: http://connpass.com/event/
 
 <h4 id="sensui">Functional JavaScript with Lo-Dash.js</h4>
 
-WebにおけるJavaScriptの担う役割は大きくなっており、いかに品質を担保するかが重要な課題になっています。最近ではScalaやHaskellのような関数型言語が注目されていますが、はJavaScriptでもこの関数型アプローチができます。今回はそんなFunctionalなアプローチがもたらすメリットに着目し、JavaScriptに導入する方法を紹介します。
+WebにおけるJavaScriptの担う役割は大きくなっており、いかに品質を担保するかが重要な課題になっています。最近ではScalaやHaskellのような関数型言語が注目されていますが、実はJavaScriptでもこの関数型アプローチができます。今回はそんなFunctionalなアプローチがもたらすメリットに着目し、JavaScriptに導入する方法を紹介します。
 
 <div class="row">
     <div class="three columns">
