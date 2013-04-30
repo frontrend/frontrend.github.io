@@ -9,7 +9,7 @@ description: サイバーエージェントが主催するフロントエンド�
 vol: '05'
 tagline: We are ONE.
 uri: http://frontrend.github.io/events/05/
-atnd: http://connpass.com/event/
+atnd: http://connpass.com/event/2351/
 ---
 
 イベント名 |Frontrend Vol.5 powered by CyberAgent, Inc.
