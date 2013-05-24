@@ -14,7 +14,7 @@ atnd: http://connpass.com/event/2351/
 
 イベント名 |Frontrend Vol.5 powered by CyberAgent, Inc.
 ---------|---------------------------------------------------------------
-日時     |2013年5月25日（土） 14:00 – 18:00（開場13:30）
+日時     |2013年5月25日（土） 14:00 – 17:00（開場13:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](https://www.cyberagent.co.jp/company/access/tokyo.html)
 定員     |140名
 講師     |小阪 智弘 [@tomowaqs](https://twitter.com/tomowaqs)<br>泉水 翔吾 [@1000ch](https://twitter.com/1000ch)<br>原 一成 [@herablog](https://twitter.com/herablog)
