@@ -28,6 +28,9 @@ atnd: http://connpass.com/event/2351/
 
 今から約5年前、iPhoneのFlash Player非搭載から始まったFlash戦争の一番の被災者は現在、絶滅危惧種とも揶揄されるフラッシャーの方たちでしょう。しかしながら、アニメーション制作ツールとしてのFlashの右に出るツールはまだないと感じています。またソーシャルゲームは更新が命、変更修正が抜群に早いのもFlashの優位性ではないでしょうか？ほんの少しのJavaScriptの知識を足せばまだまだ使えるFlash！Toolkit for CreateJSの扉を叩いていきましょう。
 
++ <span class="label secondary radius">Deck</span> - [Flash Toolkit for CreateJSで作るスマートフォン用アニメーション](http://www.slideshare.net/tomohirokosaka79/frontrend0525)
++ <span class="label secondary radius">Video</span> - [Flash Toolkit for CreateJSで作るスマートフォン用アニメーション](http://vimeo.com/frontrend/flash-toolkit-for-createjs)
+
 <div class="row">
     <div class="three columns">
         <img src="/images/speakers/kosaka.jpg">
@@ -44,6 +47,9 @@ atnd: http://connpass.com/event/2351/
 <h4 id="sensui">Functional JavaScript with Lo-Dash.js</h4>
 
 WebにおけるJavaScriptの担う役割は大きくなっており、いかに品質を担保するかが重要な課題になっています。最近ではScalaやHaskellのような関数型言語が注目されていますが、実はJavaScriptでもこの関数型アプローチができます。今回はそんなFunctionalなアプローチがもたらすメリットに着目し、JavaScriptに導入する方法を紹介します。
+
++ <span class="label secondary radius">Deck</span> - [Functional JavaScript with Lo-Dash.js](https://speakerdeck.com/1000ch/functional-javascript-with-lo-dash-dot-js)
++ <span class="label secondary radius">Video</span> - [Functional JavaScript with Lo-Dash.js](http://vimeo.com/frontrend/functional-javascript)
 
 <div class="row">
     <div class="three columns">
@@ -65,6 +71,9 @@ WebにおけるJavaScriptの担う役割は大きくなっており、いかに�
 AmebaのフロントエンドエンジニアはHTML, CSS, JavaScriptに加え、サーバサイドプログラミング、Jenkinsを使った運用の効率化など様々な領域に携わっています。
 Amebaがどのような技術 (node.js/stylus/jade/chikuwa.js)を使ってつくられているのか、それらをどのように身につけていったのか、また、運用していくうえで発生した問題やその解決方法などについてお伝えします。
 
++ <span class="label secondary radius">Deck</span> - [Amebaプラットフォームの作り方](http://www.slideshare.net/herablog/ameba-22035207)
++ <span class="label secondary radius">Video</span> - [Amebaプラットフォームの作り方](http://vimeo.com/frontrend/ameba-platform)
+
 <div class="row">
     <div class="three columns">
         <img src="/images/speakers/hara.jpg">
@@ -75,5 +84,6 @@ Amebaがどのような技術 (node.js/stylus/jade/chikuwa.js)を使ってつく
     </div>
 </div>
 
----
+<br>
+<div class="alert-box alert c">このイベントは終了しました。</div>
 
