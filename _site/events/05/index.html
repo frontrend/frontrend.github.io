@@ -218,16 +218,17 @@ Amebaがどのような技術 (node.js/stylus/jade/chikuwa.js)を使ってつく
   <!-- End Footer -->
   <!-- Application Javascript, safe to override -->
   <!--script src="javascripts/foundation/app.js"></script-->
-  <div id="fb-root"></div><!-- fb needs this -->
+  <!-- fb needs this -->
+<div id="fb-root"></div>
 <script>
 (function(d, s) {
   var js,
-    　fjs = d.getElementsByTagName(s)[0],
-    　load = function(url, id) {
-            if (d.getElementById(id)) {return;}
-            js = d.createElement(s); js.src = url; js.id = id;
-            fjs.parentNode.insertBefore(js, fjs);
-          };
+      fjs = d.getElementsByTagName(s)[0],
+      load = function(url, id) {
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.src = url; js.id = id;
+        fjs.parentNode.insertBefore(js, fjs);
+      };
   load('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747', 'fbjssdk');
   load('//platform.twitter.com/widgets.js', 'tweetjs');
   load('//apis.google.com/js/plusone.js', 'plusone');

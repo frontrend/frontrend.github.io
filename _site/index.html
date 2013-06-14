@@ -11,16 +11,17 @@
 <body>
   <div class="c"><a href="/events/05/"><p><img src="/images/bg_logo.png" alt="Frontrend"></p>
 </a></div>
-  <div id="fb-root"></div><!-- fb needs this -->
+  <!-- fb needs this -->
+<div id="fb-root"></div>
 <script>
 (function(d, s) {
   var js,
-    　fjs = d.getElementsByTagName(s)[0],
-    　load = function(url, id) {
-            if (d.getElementById(id)) {return;}
-            js = d.createElement(s); js.src = url; js.id = id;
-            fjs.parentNode.insertBefore(js, fjs);
-          };
+      fjs = d.getElementsByTagName(s)[0],
+      load = function(url, id) {
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.src = url; js.id = id;
+        fjs.parentNode.insertBefore(js, fjs);
+      };
   load('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747', 'fbjssdk');
   load('//platform.twitter.com/widgets.js', 'tweetjs');
   load('//apis.google.com/js/plusone.js', 'plusone');
