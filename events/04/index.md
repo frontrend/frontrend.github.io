@@ -27,6 +27,9 @@ end: true
 
 <h4 id="layzie">JavaScript Development Tools – JavaScript開発の効率アップ</h4>
 
+<iframe src="http://player.vimeo.com/video/59540070?title=0&amp;byline=0&amp;portrait=0" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
 JavaScriptは、ブラウザとテキストエディタがあれば開発できるプログラミング言語です。しかし、色々なツールを組み合わせる事によってスピーディかつ効率的に、JavaScriptでの開発が行なえるようになります。このセッションでは、Chrome Web Develper Toolを始めとするJavaScript開発をラクにしてくれる…そんなツールを紹介していきます。
 
 + <span class="label secondary radius">Deck</span> - [JavaScript Development Tools – JavaScript開発の効率アップ](https://speakerdeck.com/layzie/javascript-development-tools)
@@ -47,6 +50,8 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 
 <h4 id="pocotan001">jQuery Performance Tips - jQueryにおける高速化 -</h4>
 
+<iframe src="http://player.vimeo.com/video/59548398?title=0&amp;byline=0&amp;portrait=0" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 リッチなWebアプリケーションに対するニーズの増加に伴い、JavaScriptで十分なパフォーマンスを担保することが難しくなってきています。とりわけ、スマートフォンのような非力なデバイスでは一層シビアなチューニングが求められるでしょう。本セッションでは、もっともポピュラーなJavaScriptライブラリである「jQuery」を中心とした、いくつかのパフォーマンス解決のためのヒントについてご紹介させていただきます。
 
 + <span class="label secondary radius">Deck</span> - [jQuery Performance Tips - jQueryにおける高速化 -](http://www.slideshare.net/hayatomizuno/jquery-performance-tips)
@@ -65,6 +70,8 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 ---
 
 <h4 id="cssradar">Testable Javascript – テストしやすいJavaScriptとテストについて -</h4>
+
+<iframe src="http://player.vimeo.com/video/59550647?title=0&amp;byline=0&amp;portrait=0" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 あとになってバグに悩まされるくらいなら、初めにテストを書いておいた方が開発スピードは速い。脱初心者を目指すならテストを意識したテストしやすいJavaScriptを知るのが近道。今回はテストしやすいJavaScriptと、JavaScriptのテストとはどんなものなのかについて紹介していきます。
 
@@ -87,6 +94,8 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 ---
 
 <h4 id="ahomu">jQuery to Backbone – アーキテクチャを意識したJavaScript入門</h4>
+
+<iframe src="http://player.vimeo.com/video/59558632?title=0&amp;byline=0&amp;portrait=0" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 昨今のフロントエンドの開発シーンでは、さまざまなパラダイムシフトが起こっています。その中でも、MVC/MVVM/MVPアーキテクチャに代表されるような実装デザインに対する関心が高まっています。我々が今後1,2年の近い時代に向けて取り組むべき、このアーキテクチャの課題についてjQueryとBackboneを例に紹介していきます。
 
