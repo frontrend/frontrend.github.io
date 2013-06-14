@@ -37,12 +37,15 @@
 
         {{ content }}
 
-        <p class="panel" style="margin:50px 0; text-align:center">
+        {% if page.end == true %}
+        <div class="alert-box alert c" style="margin:50px 0;padding: 20px;">このイベントは終了しました。</div>
+        {% else %}
+        <p class="panel c" style="margin:50px 0;">
           <a href="{{ page.atnd }}" class="button large radius">参加登録サイトへ</a></p>
- 
+        {% endif %}
+
       </article>
-    </div>
-    <!-- End Main Content -->
+    </div><!-- End Main Content -->
  
     <!-- Sidebar -->
     <aside class="three columns">

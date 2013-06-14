@@ -10,6 +10,7 @@ vol: '05'
 tagline: We are ONE.
 uri: http://frontrend.github.io/events/05/
 atnd: http://connpass.com/event/2351/
+end: true
 ---
 
 イベント名 |Frontrend Vol.5 powered by CyberAgent, Inc.
@@ -83,7 +84,3 @@ Amebaがどのような技術 (node.js/stylus/jade/chikuwa.js)を使ってつく
     2008年に入社。PC/モバイル向けAmebaブログ、アメゴールドなどを担当後、Amebaブログ、Amebaピグのスマートフォン版を立ち上げ、現在はスマートフォン向け<a href="https://s.amebame.com/">Ameba</a>の開発をしている。主な開発言語はHTML, CSS, JavaScript(node.js含む)。最近はシェルスクリプトに(少しだけ)はまっている。</p>
     </div>
 </div>
-
-<br>
-<div class="alert-box alert c">このイベントは終了しました。</div>
-

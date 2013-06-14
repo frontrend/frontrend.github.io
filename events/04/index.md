@@ -10,6 +10,7 @@ vol: '04'
 tagline: Key to better JavaScript developer.
 uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
+end: true
 ---
 
 イベント名 |Frontrend Vol.4 powered by CyberAgent, Inc.
@@ -102,7 +103,3 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
 1985年生まれ。渋谷でマークアップエンジニアとして、JavaScript/HTML5を中心にフロントエンド技術を探求中。バックエンド寄りWebエンジニアからの転身で、サーバサイドの経験と知識を活かしながら、現職サービスのフロント開発に取り組んでいる。詳しい情報・アクティビティは個人サイト <a href="http://aho.mu/">http://aho.mu</a> にて。</p>
     </div>
 </div>
-
-<br>
-<div class="alert-box alert c">このイベントは終了しました。</div>
-

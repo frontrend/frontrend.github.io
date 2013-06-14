@@ -10,6 +10,7 @@ vol: '03'
 tagline: Beyond the Speed!
 uri: http://frontrend.github.com/events/03/
 atnd: http://atnd.org/events/32232
+end: true
 ---
 
 イベント名 |Frontrend Vol.3 powered by CyberAgent, Inc.
@@ -101,8 +102,3 @@ atnd: http://atnd.org/events/32232
 個人ではフロントエンドデベロッパのためのミニブックというコンセプトのブログ <a href="http://css.studiomohawk.com/">CSS Radar</a>  をはじめ海外記事の翻訳を掲載している <a href="http://enja.studiomohawk.com/">en.ja</a> 、OSSのドキュメント翻訳コミュニティ <a href="https://github.com/enja-oss">en.ja OSS</a> を運営している。</p>
     </div>
 </div>
-
-<br>
-<div class="alert-box alert c">このイベントは終了しました。</div>
-
-

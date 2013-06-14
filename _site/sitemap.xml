@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://frontrend.github.com/events/03/</loc>
-        <lastmod>2013-06-10T10:48:26+09:00</lastmod>
+        <loc>http://frontrend.github.com/events/03/events/03/</loc>
+        <lastmod>2013-06-14T10:13:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://frontrend.github.com/events/04/</loc>
-        <lastmod>2013-06-10T10:48:26+09:00</lastmod>
+        <loc>http://frontrend.github.com/events/04/events/04/</loc>
+        <lastmod>2013-06-14T10:13:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://frontrend.github.com/events/05/</loc>
-        <lastmod>2013-06-10T10:48:26+09:00</lastmod>
+        <loc>http://frontrend.github.com/events/05/events/05/</loc>
+        <lastmod>2013-06-14T10:13:39+09:00</lastmod>
     </url>
     <url>
         <loc>http://frontrend.github.com/</loc>
-        <lastmod>2013-04-28T17:50:11+09:00</lastmod>
+        <lastmod>2013-06-14T11:19:18+09:00</lastmod>
     </url>
 </urlset>
