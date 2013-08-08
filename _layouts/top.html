@@ -9,7 +9,35 @@
   <link rel="alternate" type="application/atom+xml" title="Frontrend" href="/feed.xml">
 </head>
 <body>
-  <div class="c"><a href="/events/05/">{{ content }}</a></div>
+  <!-- Nav Bar -->
+  {% include snippets/navbar.html %}
+
+  <!-- Main Page Content and Sidebar -->
+  <div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns" role="content">
+
+      <div class="c"><img src="/images/bg_logo.png" alt=""></div>
+
+      {% for post in site.posts %}
+      <hr class="rule">
+      <article>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+      </article>
+      {% endfor %}
+ 
+    </div>
+
+    <!-- Sidebar -->
+    {% include snippets/sidebar.html %}
+  </div>
+
+  <!-- End Main Content and Sidebar -->
+
+  <!-- Footer -->
+  {% include snippets/footer.html %}
 
   <!-- End Footer -->
   {% include snippets/scripts.html %}

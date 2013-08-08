@@ -2,19 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://frontrend.github.com/blog/hello-osaka</loc>
-        <lastmod>2013-08-08T22:27:17+09:00</lastmod>
+        <lastmod>2013-08-08T23:46:37+09:00</lastmod>
     </url>
     <url>
         <loc>http://frontrend.github.com/events/03/events/03/</loc>
-        <lastmod>2013-08-08T22:28:20+09:00</lastmod>
+        <lastmod>2013-08-08T23:59:01+09:00</lastmod>
     </url>
     <url>
         <loc>http://frontrend.github.com/events/04/events/04/</loc>
-        <lastmod>2013-08-08T22:28:20+09:00</lastmod>
+        <lastmod>2013-08-08T23:59:01+09:00</lastmod>
     </url>
     <url>
         <loc>http://frontrend.github.com/events/05/events/05/</loc>
-        <lastmod>2013-08-08T22:28:20+09:00</lastmod>
+        <lastmod>2013-08-08T23:59:01+09:00</lastmod>
     </url>
     <url>
         <loc>http://frontrend.github.com/feed.xml</loc>
@@ -22,6 +22,6 @@
     </url>
     <url>
         <loc>http://frontrend.github.com/</loc>
-        <lastmod>2013-08-08T22:28:52+09:00</lastmod>
+        <lastmod>2013-08-08T23:52:00+09:00</lastmod>
     </url>
 </urlset>

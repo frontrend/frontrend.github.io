@@ -33,10 +33,10 @@ end: true
 <span class="label secondary radius">Deck</span> - [CSSプリプロセッサの取扱説明書](http://www.slideshare.net/hiloki/css-16247228)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/tani.jpg">
     </div>
-    <div class="nine columns">
+    <div class="large-9 columns">
         <h5>谷 拓樹（たに ひろき） <a href="https://twitter.com/hiloki">@hiloki</a></h5>
         <p>株式会社サイバーエージェント Webディベロッパー<br>
     中小企業向けのアプリケーション開発、スタートアップでのスマートフォンサイト制作などを経て、現在はスマートフォンアプリの開発、テクニカルディレクションを担当している。 主な著書に「 <a href="http://www.amazon.co.jp/dp/4899772750/">魅せるiPhoneサイト</a> 」「 <a href="http://www.amazon.co.jp/dp/4844362232/">スマートフォン制作の教科書（共著）</a> 」。</p>
@@ -52,10 +52,10 @@ end: true
 <span class="label secondary radius">Deck</span> - [Mobile Front-end Optimization Standard:2012](https://speakerdeck.com/t32k/mobile-front-end-optimization-standard-2012)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/ishimoto.jpg">
     </div>
-    <div class="nine columns">
+    <div class="large-9 columns">
         <h5>石本 光司（いしもと こうじ） <a href="https://twitter.com/t32k">@t32k</a></h5>
         <p>株式会社サイバーエージェント Webディベロッパー<br>
 1983年石川県生まれ。大学でデザインを専攻後、晴れてWebデザイナーになるが、コーディング好きが高じてWebデベロッパーに転身。主要な業務としてはHTML/CSS/JavaScriptといったフロントエンド全般を担当。また社内教育やマークアップ監査なども担当している。<br>
@@ -73,10 +73,10 @@ end: true
 <span class="label secondary radius">Deck</span> - [ビルドプロセスの自動化で効率アップ](https://speakerdeck.com/ahomu/birudopurosesufalsezi-dong-hua-dexiao-lu-atupu)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/sato.jpg">
     </div>
-    <div class="nine columns">
+    <div class="large-9 columns">
         <h5>佐藤 歩（さとう あゆむ） <a href="https://twitter.com/ahomu">@ahomu</a></h5>
         <p>株式会社サイバーエージェント Webディベロッパー<br>
 1985年生まれ。渋谷でマークアップエンジニアとして、JavaScript/HTML5を中心にフロントエンド技術を探求中。バックエンド寄りWebエンジニアからの転身で、サーバサイドの経験と知識を活かしながら、現職サービスのフロント開発に取り組んでいる。詳しい情報・アクティビティは個人サイト <a href="http://aho.mu/">http://aho.mu</a> にて。</p>
@@ -91,10 +91,10 @@ end: true
 今回は自信を持ってイテレーションを回すために知っておきたいスタイルガイドについて紹介します。
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/saito.jpg">
     </div>
-    <div class="nine columns">
+    <div class="large-9 columns">
         <h5>斉藤 祐也（さいとう ゆうや） <a href="https://twitter.com/cssradar">@cssradar</a></h5>
         <p>株式会社サイバーエージェント Webディベロッパー<br>
 1979年生まれ。ネバダ州立ラスベガス大学、プリントジャーナリズム学部卒。株式会社All Aboutで6年、2012年2月からは株式会社サイバーエージェントへ。

@@ -1,16 +1,3 @@
-<!-- fb needs this -->
-<div id="fb-root"></div>
-<script>
-(function(d, s) {
-  var js,
-      fjs = d.getElementsByTagName(s)[0],
-      load = function(url, id) {
-        if (d.getElementById(id)) {return;}
-        js = d.createElement(s); js.src = url; js.id = id;
-        fjs.parentNode.insertBefore(js, fjs);
-      };
-  load('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=413533248681747', 'fbjssdk');
-  load('//platform.twitter.com/widgets.js', 'tweetjs');
-  load('//apis.google.com/js/plusone.js', 'plusone');
-}(document, 'script'));
-</script>
+<div class="fb-like" data-href="{{ page.uri }}" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false" style="vertical-align:-1px"></div>　
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-url="{{ page.uri }}" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
+<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>

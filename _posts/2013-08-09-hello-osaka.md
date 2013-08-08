@@ -5,11 +5,12 @@ description: 2013/09/14 (土) 第15回リクリセミナー「Frontrend in Osaka
 published: 2013-08-09
 category: news
 tags: event, frontrend
+excerpt: 今回は、第15回リクリセミナー「Frontrend in Osaka」に出張し、アプリ運用、デザインワークフロー、CSS設計、ハイパフォーマンスWebについて講演します。通常は東京（渋谷）で開催しているFrontrendですが、初の大阪、初の関西での開催ということで、普段参加できない方もぜひ参加してみてください。
 ---
 
-![](https://dzpp79ucibp5a.cloudfront.net/events_banners/5240_normal_1375686164_doorkeeper.png)
-
 ## Frontrend in Osaka 開催します!
+
+![](https://dzpp79ucibp5a.cloudfront.net/events_banners/5240_normal_1375686164_doorkeeper.png)
 
 2013年9月14日（土）、3連休の初日、Re:Creator's KansaiにFrontrendメンバーが登壇します。
 

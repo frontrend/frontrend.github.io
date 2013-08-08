@@ -35,10 +35,10 @@ end: true
 + <span class="label secondary radius">Video</span> - [Flash Toolkit for CreateJSで作るスマートフォン用アニメーション](http://vimeo.com/frontrend/flash-toolkit-for-createjs)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/kosaka.jpg">
     </div>
-    <div class="nine columns"><h5>小阪 智弘（こさか ともひろ）<a href="https://twitter.com/tomowaqs">@tomowaqs</a></h5>
+    <div class="large-9 columns"><h5>小阪 智弘（こさか ともひろ）<a href="https://twitter.com/tomowaqs">@tomowaqs</a></h5>
     <p>株式会社サイバーエージェント Webディベロッパー<br>
     1982年生まれ。2006年04月より株式会社サイバーエージェントに入社。<br>
     社内でもあまり知られていないが新卒入社でなのでこういう機会に語る経歴などが特にない。Flash・JavaScript/HTML5を中心にフロントエンド技術を広く浅く探求中！現在は<a href="http://fs.ameba.jp/">天空のクリスタリア</a>というソーシャルゲームの演出部分を主に担当。</p>
@@ -58,10 +58,10 @@ WebにおけるJavaScriptの担う役割は大きくなっており、いかに�
 + <span class="label secondary radius">Video</span> - [Functional JavaScript with Lo-Dash.js](http://vimeo.com/frontrend/functional-javascript)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/sensui.jpg">
     </div>
-    <div class="nine columns"><h5>泉水 翔吾（せんすい しょうご）<a href="https://twitter.com/1000ch">@1000ch</a></h5>
+    <div class="large-9 columns"><h5>泉水 翔吾（せんすい しょうご）<a href="https://twitter.com/1000ch">@1000ch</a></h5>
     <p>株式会社サイバーエージェント Webディベロッパー<br>
     1987年千葉生まれ。プログラマー出身のWebディベロッパー。<br>
     JavaScript等のフロントエンド技術を中心に、日々ブラウザの気持ちを考えている一方で、プライベートではPythonもRubyもやる雑食系。  
@@ -83,10 +83,10 @@ Amebaがどのような技術 (node.js/stylus/jade/chikuwa.js)を使ってつく
 + <span class="label secondary radius">Video</span> - [Amebaプラットフォームの作り方](http://vimeo.com/frontrend/ameba-platform)
 
 <div class="row">
-    <div class="three columns">
+    <div class="large-3 columns">
         <img src="/images/speakers/hara.jpg">
     </div>
-    <div class="nine columns"><h5>原 一成（はら かずなり）<a href="https://twitter.com/herablog">@herablog</a></h5>
+    <div class="large-9 columns"><h5>原 一成（はら かずなり）<a href="https://twitter.com/herablog">@herablog</a></h5>
     <p>株式会社サイバーエージェント Webディベロッパー<br>
     2008年に入社。PC/モバイル向けAmebaブログ、アメゴールドなどを担当後、Amebaブログ、Amebaピグのスマートフォン版を立ち上げ、現在はスマートフォン向け<a href="https://s.amebame.com/">Ameba</a>の開発をしている。主な開発言語はHTML, CSS, JavaScript(node.js含む)。最近はシェルスクリプトに(少しだけ)はまっている。</p>
     </div>
