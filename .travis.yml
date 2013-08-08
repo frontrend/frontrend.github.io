@@ -9,7 +9,7 @@ before_script:
 
 env:
   global:
-    - secure: "yourSecureTokenFromTravisEncrypt"
+    - secure: "m1Xtlu/4lv64t5i0URr/w54ZSlqOzvqZN0tV2/MlY/eXPGUjWPwfMGPcQPX2gSfGJC9zNh4bxdtd0BFoqlrzAVaSBRSTOMlN827qlfgb4LXq3sa4f40cCNSNtX27JtYgG7iP17k13pLf4gvv9cvUDV97phOhrFNja2DmwYQJmRE="
 
 branches:
   except:
