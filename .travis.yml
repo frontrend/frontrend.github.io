@@ -1,0 +1,19 @@
+before_install:
+  - gem install bundler
+language: ruby
+rvm:
+  - 1.9.3
+before_script:
+  - "rake"
+  - bash build/post_build.sh
+
+env:
+  global:
+    - secure: "yourSecureTokenFromTravisEncrypt"
+
+branches:
+  except:
+    - gh-pages
+
+script:
+  - bash build/gh-pages-report.sh
