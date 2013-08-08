@@ -100,8 +100,8 @@
  </div>
 
   <!-- End Footer -->
-  <!-- fb needs this -->
-<div id="fb-root"></div>
+  <div id="fb-root"></div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script>
 (function(d, s) {
   var js,
@@ -116,15 +116,11 @@
   load('//apis.google.com/js/plusone.js', 'plusone');
 }(document, 'script'));
 </script>
-  <script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-38010723-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script id="js-gaq">
+　var _gaq=[['_setAccount','UA-38010723-1'],['_trackPageview']];
+　(function(d){var g=d.createElement('script'),s=d.getElementById('js-gaq');g.async=1;
+　g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+　s.parentNode.insertBefore(g,s)}(document));
 </script>
 </body>
 </html>
