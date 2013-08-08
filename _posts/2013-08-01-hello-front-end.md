@@ -6,7 +6,7 @@ category: news
 tags: javascript
 ---
 
-# 見出し1 Headline
+# 第15回リクリセミナー「Frontrend in Osaka」
 
 __そちらは場合とにかくそのお断り児といった方の後を申しまします。__
 
