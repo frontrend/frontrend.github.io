@@ -1,7 +1,7 @@
 export REPO="$(pwd | sed s,^/home/travis/build/,,g)"
 echo -e "Current Repo:$REPO --- Travis Branch:$TRAVIS_BRANCH"
 
-TEST_PAGE="http://www.wesleyhales.com"
+TEST_PAGE="http://frontrend.github.io/"
 
 #Set upstream remote
 git remote add upstream https://${GH_TOKEN}@github.com/${REPO} > /dev/null
