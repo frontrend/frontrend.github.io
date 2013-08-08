@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ page.title }}</title>
+  <meta description="{{ page.description }}">
+	<link rel="stylesheet" href="/stylesheets/app.css">
+  <link rel="alternate" type="application/atom+xml" title="Frontrend" href="/feed.xml">
+</head>
+<body>
+
+  <div class="row">
+    <div class="twelve columns">
+      <h1 style="margin-bottom:-15px">Frontrend/<a href="{{ page.uri }}">{{ page.vol }}</a></h1>
+      <h5 class="subheader">Tokyo, {{ page.day }}</h5>
+      <div class="showcase">
+          <h4>{{ page.tagline }}</h4>
+          <img src="{{ page.title-headr }}" alt="">
+      </div>
+      <hr>
+    </div>
+  </div>
+
+  <!-- Main Page Content and Sidebar -->
+ 
+  <div class="row">
+    <!-- Main Blog Content -->
+    <div class="nine columns" role="content">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="frontrend_ca" data-url="{{ page.uri }}" data-lang="en" data-related="frontrend_ca" data-hashtags="frontrend">Tweet</a>
+    <div class="fb-like" data-href="{{ page.uri }}" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false" style="vertical-align:-1px"></div>　
+    <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>
+
+      <article class="event">
+
+        {{ content }}
+
+        {% if page.end == true %}
+        <div class="alert-box alert c" style="margin:50px 0;padding: 20px;">このイベントは終了しました。</div>
+        {% else %}
+        <p class="panel c" style="margin:50px 0;">
+          <a href="{{ page.atnd }}" class="button large radius">参加登録サイトへ</a></p>
+        {% endif %}
+
+      </article>
+    </div><!-- End Main Content -->
+ 
+    <!-- Sidebar -->
+    <aside class="three columns">
+      <h5>Twitter</h5>
+        <a href="https://twitter.com/search?q=%23frontrend" class="twitter-timeline" data-widget-id="295907562568679425" data-chrome="nofooter noborders transparent">#frontrend に関するツイート</a>
+      <h5>Sponsor</h5>
+        <a href="http://www.cyberagent.co.jp/release/index2.html">
+        <img src="/images/ameba.png" alt=""><br>コミュニティ&amp;ゲーム SNS
+      </a>
+      <h5>Ad</h5>
+      <h5>Contact</h5>
+        Frontrendに関するお問い合わせ、取材・講演依頼はこちらから<br><br>
+        <a href="mailto:frontrend.ca@gmail.com">frontrend.ca@gmail.com</a>
+        
+    </aside>
+    <!-- End Sidebar -->
+
+ 
+  <!-- End Main Content and Sidebar -->
+  <!-- Footer -->
+  <footer class="row">
+    <div class="twelve columns">
+      <hr />
+      <div class="row">
+        <div class="six columns">
+          <p>&copy; 2013 Frontrend powered by CyberAgent, Inc.</p>
+        </div>
+
+        <div class="six columns">
+          <ul class="inline-list right sns">
+            <li><a href="https://twitter.com/frontrend_ca"><img src="/images/ico_twitter.png" width="16" height="16" alt=""> Twitter</a></li>
+            <li><a href="https://www.facebook.com/frontrend.ca"><img src="/images/ico_facebook.png" width="16" height="16" alt=""> Facebook</a></li>
+            <li><a href="https://vimeo.com/frontrend"><img src="/images/ico_vimeo.png" width="16" height="16" alt=""> Vimeo</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+ </div>
+
+  <!-- End Footer -->
+  {% include snippets/sns.html %}
+  {% include snippets/ga.html %}
+</body>
+</html>
