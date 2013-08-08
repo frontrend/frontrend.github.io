@@ -8,7 +8,7 @@ before_script:
   - bash build/post_build.sh
 env:
   global:
-    - secure: "m1Xtlu/4lv64t5i0URr/w54ZSlqOzvqZN0tV2/MlY/eXPGUjWPwfMGPcQPX2gSfGJC9zNh4bxdtd0BFoqlrzAVaSBRSTOMlN827qlfgb4LXq3sa4f40cCNSNtX27JtYgG7iP17k13pLf4gvv9cvUDV97phOhrFNja2DmwYQJmRE="
+    - secure: "tz123mqYYo9ObA64k/sfl3PasuPSmOVuvBlPWpIWW8lOxSLQeyMS4I/QUo2KE14jItlCT++Gw7CsQwF6Y+P1FzJgfWJXLcltZXvykZM5x9WsbZCsulFUbnJKiPqoqY34nMupBQ+HBADiDIQNGBkRipr2rPoHuQ1H/b7aQV1Ai5w="
 branches:
   except:
     - gh-pages
