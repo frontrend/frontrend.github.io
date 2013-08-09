@@ -33,3 +33,9 @@ excerpt: 今回は、第15回リクリセミナー「Frontrend in Osaka」に出
 ### 定員
 
 __100名__
+
+喜びの声も頂いており、嬉しい限りでございますヽ(´ー｀)ノ
+
+<blockquote class="twitter-tweet"><p>待ちに待ったフロントレンドの大阪開催！ヽ(*´∀｀*)ノ / 第15回リクリセミナー「Frontrend in Osaka」 - Re:Creator&#39;s Kansai | Doorkeeper - <a href="http://t.co/SqGz93OIS5">http://t.co/SqGz93OIS5</a></p>&mdash; あわゆき (@awayuki) <a href="https://twitter.com/awayuki/statuses/365302593683066880">August 8, 2013</a></blockquote>
+
+<blockquote class="twitter-tweet"><p>やた！！フロントレンド大阪 ｷﾀ━(ﾟ∀ﾟ)━! 早速申し込んだ 第15回リクリセミナー「Frontrend in Osaka」 <a href="https://twitter.com/search?q=%23resem15&amp;src=hash">#resem15</a> <a href="http://t.co/6opsQ1Hrpw">http://t.co/6opsQ1Hrpw</a></p>&mdash; サカモトノリコ (@8823nori) <a href="https://twitter.com/8823nori/statuses/365302150609387520">August 8, 2013</a></blockquote>
