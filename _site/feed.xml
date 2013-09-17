@@ -7,6 +7,90 @@
 		<atom:link href="http://frontrend.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Frontrend in Osaka 開催されました！</title>
+				<description>&lt;h2&gt;Frontrend in Osaka 開催されました！&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/0917_osaka.jpg&quot; alt=&quot;Frontrend in Osaka&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2013年9月14日（土）、Re:Creator's Kansaiのご協力を得まして、Frontrend in Oasaka開催されました。3連休の初日にも関わらず、当日のセミナーは立ち見が出るほどの盛況っぷりで大阪の皆さんの熱気を感じました。&lt;/p&gt;
+
+&lt;h3&gt;Webサイトのゴールを満たすためのチームとフロント&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/0917_s1.jpg&quot; alt=&quot;川畑雄補&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最初のセッションはサイバーエージェント大阪支社の川畑雄補による『Webサイトのゴールを満たすためのチームとフロント』のタイトルで、フロントエンドエンジニアたる者どうあるべきか講演しました。&lt;/p&gt;
+
+&lt;p&gt;フロントエンドはビジネスサイドと深く関わることが多いため、単純に技術ばかり追い求めていては、ビジネスサイドの人間と齟齬をきたす、そうならないためにも、互いに共通のゴール（ビジネスゴール、ユーザーゴール）を持つことで、円滑なプロジェクト運営を実行できると述べていました。&lt;/p&gt;
+
+&lt;p&gt;後続の3つのセッションをマクロな視点から捉えた良いセッションでした。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/yusukekawabata/frontrend-ku-suke&quot;&gt;Building your website with team - Frontrend in Osaka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;デザインニング・イン・ブラウザ ver.1.0&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/0917_s2.jpg&quot; alt=&quot;斉藤祐也&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;続く2番目のセッションは『デザイナーがコードを書くべきか？』という永遠のテーマをもとに、Webデザインの、過去・現在・未来について、斉藤祐也が講演しました。&lt;/p&gt;
+
+&lt;p&gt;Webは進化し続けている。単純なWebページ、デスクトップPC閲覧環境から、多様化するデバイス、複雑化するインタラクションなどWebデザインの取り巻く環境は大いに変わってきています。そのような環境の中でWebデザイナーが知っておきたい心構えからツール・テクニックまで網羅的に解説していました。&lt;/p&gt;
+
+&lt;p&gt;特に『カード』というデザインコンポーネントは、これからのWebデザインにおいて重要な概念ではないかと感じました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/studiomohawk/designing-in-the-browser-ver-1-dot-0-rc&quot;&gt;Designing in the Browser ver. 1.0 RC // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Thinking about CSS Architecture&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/0917_s3.jpg&quot; alt=&quot;谷拓樹&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;元リクリ運営メンバーだった谷拓樹による凱旋講演、3番目のセッションは、最近、なにかと話題のCSSの設計についてのセッションでした。&lt;/p&gt;
+
+&lt;p&gt;OOCSS, SMACCS, BEMなど最近のCSSフレームワークの考え方から、実際のプロジェクトにおける使い方まで体系的に解説してとても分かりやすいセッションでした。&lt;/p&gt;
+
+&lt;p&gt;日本語でCSSの設計についての資料はないかと思いますので、まずCSSを書く人はこの資料から読むべき！といえるほど、よい講演でした！&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/hiloki/thinking-about-css-architecture&quot;&gt;Thinking about CSS Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ハイパフォーマンスWebフロントエンド 2013秋&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/0917_s4.jpg&quot; alt=&quot;佐藤 歩&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最終セッションは佐藤によるハイパフォーマンスWebフロントエンドです。今回のセッションの中で一番ミクロ、コードよりな話で、最後のセッションで疲れていた参加者にトドメをうちました。&lt;/p&gt;
+
+&lt;p&gt;Webパフォーマンスが重要なのは言うまでもなく、最近のWebパフォーマンスのホットトピックである、Network, Compute, Renderを中心に、簡潔かつ網羅的に解説していました。&lt;/p&gt;
+
+&lt;p&gt;最近のパフォーマンスに関して、これほどまとまって日本語で読める資料というのは、これまたないと思うので、ぜひともチェックしてもらいたいセッションでした。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/ahomu/high-performance-web-frontend-2013-qiu&quot;&gt;High Performance Web Frontend 2013 秋 // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;最後に&lt;/h3&gt;
+
+&lt;p&gt;最後まで真剣に聴講してくださった参加者の皆様、また万全のホスト環境を用意してくれましたRe:Creator’s Kansaiの皆様に心より厚くお礼申し上げます。&lt;/p&gt;
+
+&lt;p&gt;本当に大阪というコミュニティは素晴らしくて、また来たいと思えるような勉強会でした。本当にありがとうございました！！&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator's Kansai （リクリ）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 17 Sep 2013 00:00:00 +0900</pubDate>
+				<link>http://frontrend.github.io/blog/frontrend-in-osaka</link>
+				<guid isPermaLink="true">http://frontrend.github.io/blog/frontrend-in-osaka</guid>
+			</item>
+		
+			<item>
 				<title>Frontrend in Osaka 開催します!</title>
 				<description>&lt;h2&gt;Frontrend in Osaka 開催します!&lt;/h2&gt;
 
