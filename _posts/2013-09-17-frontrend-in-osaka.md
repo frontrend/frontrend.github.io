@@ -12,7 +12,7 @@ excerpt: 2013年9月14日（土）、Re:Creator's Kansaiのご協力を得まし
 
 ![Frontrend in Osaka](/images/2013/0917_osaka.jpg)
 
-2013年9月14日（土）、Re:Creator's Kansaiのご協力を得まして、Frontrend in Oasaka開催されました。3連休の初日にも関わらず、当日のセミナーは立ち見が出るほどの盛況っぷりで大阪の皆さんの熱気を感じました。
+2013年9月14日（土）、[Re:Creator's Kansai](http://www.re-creators.jp/)のご協力を得まして、Frontrend in Oasaka開催されました。3連休の初日にも関わらず、当日のセミナーは立ち見が出るほどの盛況っぷりで大阪の皆さんの熱気を感じました。
 
 
 ### Webサイトのゴールを満たすためのチームとフロント
@@ -47,7 +47,7 @@ Webは進化し続けている。単純なWebページ、デスクトップPC閲
 ![谷拓樹](/images/2013/0917_s3.jpg)
 
 
-元Re:Creator's Kansai運営メンバーだった谷拓樹による凱旋講演、3番目のセッションは最近なにかと話題のCSSの設計についてのセッションでした。
+元[Re:Creator's Kansai](http://www.re-creators.jp/)運営メンバーだった谷拓樹による凱旋講演、3番目のセッションは最近なにかと話題のCSSの設計についてのセッションでした。
 
 OOCSS、 SMACCS、 BEMなど最近のCSSフレームワークの考え方から、実際のプロジェクトにおける使い方まで体系的に解説してとても分かりやすいセッションでした。
 
