@@ -7,12 +7,54 @@
 		<atom:link href="http://frontrend.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Frontrend x Chrome Tech Talk Night Extended 開催します!</title>
+				<description>&lt;h2&gt;Frontrend x Chrome Tech Talk Night Extended 開催します!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/1004_fxc.png&quot; alt=&quot;Frontrend x Chrome&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2013年10月30日（水）Google本社からゲストスピーカー（Paul Irish氏、Addy Osmani氏、Jake Archibold氏）を招き、Chromeをテーマにしたイベント「Frontrend x Chrome Tech Talk Night Extended」を開催いたします。&lt;/p&gt;
+
+&lt;p&gt;今回は、弊社社員によるライトニングトーク(5分 x 5本)を始め、Google社からDeveloper Toolsや、Mobile Workflow、Rendering Peformanceについてのセッション（逐次通訳付き）があります。&lt;/p&gt;
+
+&lt;p&gt;また前日2013年10月29日（火）に、Google社主催の &lt;strong&gt;Chrome Tech Talk Night #6&lt;/strong&gt; も開催されます。ぜひ、2日続けてご参加くださいませ。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://googledevjp.blogspot.jp/2013/10/chrome-tech-talk-night-2-days-6.html&quot;&gt;Chrome Tech Talk Night × 2 days 開催 全 6 セッション - Google Japan Developer Relations Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;申し込み&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://frontrend.doorkeeper.jp/events/6456&quot;&gt;Frontrend x Chrome Tech Talk Night Extended | Doorkeeper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;出演&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paul Irish &lt;a href=&quot;https://twitter.com/paul_irish&quot;&gt;@paul_irish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Addy Osmani &lt;a href=&quot;https://twitter.com/addyosmani&quot;&gt;@addyosmani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jake Archibald &lt;a href=&quot;https://twitter.com/jaffathecake&quot;&gt;@jaffathecake&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;定員&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;300名&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 04 Oct 2013 00:00:00 +0900</pubDate>
+				<link>http://frontrend.github.io/blog/frontrend-x-chrome-tech-talk-night-extended</link>
+				<guid isPermaLink="true">http://frontrend.github.io/blog/frontrend-x-chrome-tech-talk-night-extended</guid>
+			</item>
+		
+			<item>
 				<title>Frontrend in Osaka 開催されました！</title>
 				<description>&lt;h2&gt;Frontrend in Osaka 開催されました！&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2013/0917_osaka.jpg&quot; alt=&quot;Frontrend in Osaka&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;2013年9月14日（土）、&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator's Kansai&lt;/a&gt;のご協力を得まして、Frontrend in Oasaka開催されました。3連休の初日にも関わらず、当日のセミナーは立ち見が出るほどの盛況っぷりで大阪の皆さんの熱気を感じました。&lt;/p&gt;
+&lt;p&gt;2013年9月14日（土）、&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator&#39;s Kansai&lt;/a&gt;のご協力を得まして、Frontrend in Oasaka開催されました。3連休の初日にも関わらず、当日のセミナーは立ち見が出るほどの盛況っぷりで大阪の皆さんの熱気を感じました。&lt;/p&gt;
 
 &lt;h3&gt;Webサイトのゴールを満たすためのチームとフロント&lt;/h3&gt;
 
@@ -48,7 +90,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2013/0917_s3.jpg&quot; alt=&quot;谷拓樹&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;元&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator's Kansai&lt;/a&gt;運営メンバーだった谷拓樹による凱旋講演、3番目のセッションは最近なにかと話題のCSSの設計についてのセッションでした。&lt;/p&gt;
+&lt;p&gt;元&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator&#39;s Kansai&lt;/a&gt;運営メンバーだった谷拓樹による凱旋講演、3番目のセッションは最近なにかと話題のCSSの設計についてのセッションでした。&lt;/p&gt;
 
 &lt;p&gt;OOCSS、 SMACCS、 BEMなど最近のCSSフレームワークの考え方から、実際のプロジェクトにおける使い方まで体系的に解説してとても分かりやすいセッションでした。&lt;/p&gt;
 
@@ -81,7 +123,7 @@
 &lt;p&gt;本当に大阪というコミュニティは素晴らしくて、また来たいと思えるような勉強会でした。本当にありがとうございました！！&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator's Kansai （リクリ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.re-creators.jp/&quot;&gt;Re:Creator&#39;s Kansai （リクリ）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -96,7 +138,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://dzpp79ucibp5a.cloudfront.net/events_banners/5240_normal_1375686164_doorkeeper.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;2013年9月14日（土）、3連休の初日、Re:Creator's KansaiにFrontrendメンバーが登壇します。&lt;/p&gt;
+&lt;p&gt;2013年9月14日（土）、3連休の初日、Re:Creator&#39;s KansaiにFrontrendメンバーが登壇します。&lt;/p&gt;
 
 &lt;p&gt;今回は、第15回リクリセミナー「Frontrend in Osaka」に出張し、アプリ運用、デザインワークフロー、CSS設計、ハイパフォーマンスWebについて講演します。通常は東京（渋谷）で開催しているFrontrendですが、初の大阪、初の関西での開催ということで、普段参加できない方もぜひ参加してみてください。&lt;/p&gt;
 
@@ -106,7 +148,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://recreators.doorkeeper.jp/events/5240&quot;&gt;第15回リクリセミナー「Frontrend in Osaka」 - Doorkeeper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.re-creators.jp/seminar/2013/08/08_1370.html&quot;&gt;Re:Creator's Kansai （リクリ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.re-creators.jp/seminar/2013/08/08_1370.html&quot;&gt;Re:Creator&#39;s Kansai （リクリ）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
