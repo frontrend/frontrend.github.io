@@ -16,9 +16,11 @@ excerpt: 2013年10月30日（水）Google本社からゲストスピーカー（
 
 今回は、弊社社員によるライトニングトーク(5分 x 5本)を始め、Google社からDeveloper Toolsや、Mobile Workflow、Rendering Peformanceについてのセッション（逐次通訳付き）があります。
 
+![Speakers](/images/2013/1004_speaker.png)
+
 また前日2013年10月29日（火）に、Google社主催の __Chrome Tech Talk Night #6__ も開催されます。ぜひ、2日続けてご参加くださいませ。
 
-+ [Chrome Tech Talk Night × 2 days 開催 全 6 セッション - Google Japan Developer Relations Blog](http://googledevjp.blogspot.jp/2013/10/chrome-tech-talk-night-2-days-6.html)
++ [Chrome Tech Talk Night × 2days 開催 全6セッション - Google Japan Developer Relations Blog](http://googledevjp.blogspot.jp/2013/10/chrome-tech-talk-night-2-days-6.html)
 
 ### 申し込み
 
@@ -26,9 +28,9 @@ excerpt: 2013年10月30日（水）Google本社からゲストスピーカー（
 
 ### 出演
 
-+ Paul Irish [@paul_irish](https://twitter.com/paul_irish)
-+ Addy Osmani [@addyosmani](https://twitter.com/addyosmani)
-+ Jake Archibald [@jaffathecake](https://twitter.com/jaffathecake)
++ Paul Irish [+PaulIrish](https://plus.google.com/+PaulIrish/posts) / [@paul_irish](https://twitter.com/paul_irish)
++ Addy Osmani [+AddyOsmani](https://plus.google.com/+AddyOsmani/posts) / [@addyosmani](https://twitter.com/addyosmani)
++ Jake Archibald [+jakearchibald](https://plus.google.com/+jakearchibald/posts) / [@jaffathecake](https://twitter.com/jaffathecake)
 
 ### 定員
 

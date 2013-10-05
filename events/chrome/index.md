@@ -18,7 +18,7 @@ end: false
 日時     |10月30日（水）19:00 - 23:00 (18:00開場)
 会場     |[渋谷マークシティ13F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
 定員     |300名
-講師     |Paul Irish, Addy Osmani, Jake Archibold
+講師     |Paul Irish, Addy Osmani, Jake Archibald
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要
@@ -34,7 +34,7 @@ end: false
         <img src="/images/speakers/paul.jpg">
     </div>
     <div class="large-9 columns"><h5>Paul Irish <a href="https://twitter.com/paul_irish">@paul_irish</a></h5>
-    <p>Paul IrishはChromeのデベロッパ・アドボケート担当。氏は常に、ツールを使って生産性を高めるワークフローについて考え、どのようにより洗練され、セクシーなモバイルウェブ・アプリを制作できるかを突き詰めている。氏は<a href="http://www.modernizr.com">Modernizr</a>、<a href="http://yeoman.io">Yeoman</a>、 <a href="http://html5please.us">HTML5 Please</a>、<a href="http://www.css3please.com">CSS3 Please</a>を始め、様々なオープンソースプロジェクトにも取り組んでいる。</p>
+    <p>Paul IrishはChromeのデベロッパ・アドボケート担当。氏は常に、ツールを使って生産性を高めるワークフローについて考え、どのようにより洗練され、セクシーなモバイルウェブ・アプリを制作できるかを突き詰めている。氏は<a href="http://www.modernizr.com">Modernizr</a>、<a href="http://yeoman.io">Yeoman</a>、<a href="http://html5please.us">HTML5 Please</a>、<a href="http://www.css3please.com">CSS3 Please</a>を始め、様々なオープンソースプロジェクトにも取り組んでいる。</p>
     </div>
 </div>
 
@@ -51,9 +51,9 @@ end: false
         <img src="/images/speakers/addy.jpg">
     </div>
     <div class="large-9 columns"><h5>Addy Osmani <a href="https://twitter.com/addyosmani">@addyosmani</a></h5>
-    <p>AddyはGoogle Chromeデベロッパー・リレーションチームとして、開発者の生産性と満足度を向上させるためのツールについてフォーカスしている。彼は開発者のワークフローを自動化するツールであるYeomanのリード・エンジニアであり、Chrome DevToolへのコントリビュータであり、モバイルウェブに関わるツールの改善に向けて邁進している。<p>
+    <p>AddyはGoogle Chromeデベロッパー・リレーションチームとして、開発者の生産性と満足度を向上させるためのツールについてフォーカスしている。彼は開発者のワークフローを自動化するツールであるYeomanのリード・エンジニアであり、Chrome DevToolのコントリビュータであり、モバイルウェブに関わるツールの改善に向けて邁進している。<p>
 
-    <p>Googleの外では、AddyはTodoMVCのようなオープンソースプロジェクトに貢献したり、執筆にいそしんでいる。彼はこれまでにJavaScriptのデザインパターンについて、とフレームワークについての本の執筆をし、次のSmashing Bookではモバイルウェブにおけるレンダリングパフォーマンスについての章を担当している。<p>
+    <p>Googleの外では、Addyは<a href="http://todomvc.com/">TodoMVC</a>のようなオープンソースプロジェクトに貢献したり、執筆にいそしんでいる。彼はこれまでに<a href="http://www.amazon.co.jp/dp/487311618X/">JavaScriptのデザインパターンについて</a>、とフレームワークについての本の執筆をし、次のSmashing Bookではモバイルウェブにおけるレンダリングパフォーマンスについての章を担当している。<p>
     </div>
 </div>
 
@@ -72,6 +72,6 @@ end: false
     <div class="large-9 columns"><h5>Jake Archibald <a href="https://twitter.com/jaffathecake">@jaffathecake</a></h5>
     <p>JakeはGoogle Chromeデベロッパー・リレーションチームとして、仕様、テストの実装、そして開発者達の日々の仕事がすこしでも楽になるようなツールを持っているか、などについてフォーカスしている。彼はレンダリングにかかる時間の最適化、プログレッシブ・エンハンスメント、そしてレスポンシブデザインに関わる全てについて熱烈なファンでもある。</p>
 
-    <p>JakeはGoogleの前職ではLanyrdでモバイルWebサイトを製作し、BBCではJavaScriptのライブラリと標準化について担当していた。Web以外では、F1とおいしいビールが大好き。</p>
+    <p>JakeはGoogleの前職では<a href="http://lanyrd.com/">Lanyrd</a>でモバイルWebサイトを製作し、<a href="http://www.bbc.co.uk/">BBC</a>ではJavaScriptのライブラリと標準化について担当していた。Web以外では、F1とおいしいビールが大好き。</p>
     </div>
 </div>
