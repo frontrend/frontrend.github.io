@@ -22,4 +22,4 @@ Webの進化に伴いフロントエンドは、高速な開発運用とパフ�
 
 ### 申し込み
 
-+ [第3回HTML5ビギナーズ！](http://atnd.org/events/44530)
++ [第3回HTML5ビギナーズ！ : ATND](http://atnd.org/events/44530)
