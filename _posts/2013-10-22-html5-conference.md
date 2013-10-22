@@ -5,7 +5,7 @@ description: HTML5 Conference 2013に石本、大谷、斉藤、佐藤、谷、�
 published: 2013-10-22
 category: news
 tags: event, frontrend
-excerpt: 2013年11月30日（土）html5jが主催するにHTML5 Conference 2013nにFrontrendメンバーであ石本、大谷、斉藤、佐藤、谷が登壇します。
+excerpt: 2013年11月30日（土）html5jが主催するにHTML5 Conference 2013nにFrontrendメンバーである石本、大谷、斉藤、佐藤、谷が登壇します。
 ---
 
 ## HTML5 Conference 2013に石本、大谷、斉藤、佐藤、谷が登壇します
