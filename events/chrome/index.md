@@ -25,6 +25,14 @@ end: false
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式（一部机あり）、逐次通訳あり
 
+<h4 id="lt">Lightning Talks</h4>
+
++ WebPagetest 5 minutes [@kojismt](https://twitter.com/kojismt)
++ Try Web Components [@hiloki](https://twitter.com/hiloki)
++ Solving the big picture of testing Android devices [@gunta85](https://twitter.com/gunta85)
++ JavaScript Can Fly! [@cssradar](https://twitter.com/cssradar)
+
+
 <h4 id="paul">Mobile Web Developer Tools</h4>
 
 モバイルウェブは急成長を続けている中、デベロッパツールもまた同じように変化し続けている。今回のセッションで、PaulはChromeのデベロッパツールを使って、どう効率的にパフォーマンス解析、バグ修正、そして、いかにサイトの開発を素早く行うのかについての概要に触れていく。様々なパフォーマンス・テクニック、リモート・デバッグのセットアップの方法、そして実機がない場合にどのようにモバイルの機能をエミュレートしていくかについて紹介。
