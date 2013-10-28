@@ -2,7 +2,7 @@
 layout: post
 title: Frontrend in Sapporo 開催します!
 description: 2013/12/7 (土) SaCSS Special4「Frontrend in Sapporo」に出張します！
-published: 2013-08-09
+published: 2013-10-23
 category: news
 tags: event, frontrend
 excerpt: 2013年12月7日（土）、札幌でおこなわれているセミナー・イベントSaCSSにFrontrendメンバーが登壇します。
