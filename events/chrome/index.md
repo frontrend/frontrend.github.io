@@ -27,10 +27,15 @@ end: false
 
 <h4 id="lt">Lightning Talks</h4>
 
-+ WebPagetest 5 minutes [@kojismt](https://twitter.com/kojismt)
-+ Try Web Components [@hiloki](https://twitter.com/hiloki)
-+ Solving the big picture of testing Android devices [@gunta85](https://twitter.com/gunta85)
-+ JavaScript Can Fly! [@cssradar](https://twitter.com/cssradar)
++ __WebPagetest in 5 minutes__ [@kojismt](https://twitter.com/kojismt)  
+  いまいち日本では人気のないと思われるWPTの紹介・Speed Indexの意味について紹介。
++ __Try Web Components__ [@hiloki](https://twitter.com/hiloki)  
+  Addyの[素晴らしい記事](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)を参考にしながら、WebApp向けのコンポーネントを何かつくってみます。その結果どういうものができたか、またどういった点が難しいかというのをお話します。
++ __Solving the big picture of testing Android devices__ [@gunta85](https://twitter.com/gunta85)  
+  多くのAndroid端末を個別に検証しなければならない課題を解決するべく立ち上がった、STF（仮）という開発中のプロジェクトを簡単なデモで紹介します。
++ __JavaScript Can Fly!__ [@cssradar](https://twitter.com/cssradar)  
+  As Jeff Atwood stated, "Any application that can be written in JavaScript, will eventually be written in JavaScript."I will talk about my experience flying a "Nodecopter" via JavaScript.
+Playing with a hardware using JavaScript is not so new anymore, yet it is a whole new world for me!
 
 
 <h4 id="paul">Mobile Web Developer Tools</h4>
