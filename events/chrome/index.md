@@ -18,7 +18,7 @@ end: false
 日時     |10月30日（水）19:00 - 23:00 (18:00開場)
 会場     |[渋谷マークシティ13F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
 定員     |300名
-講師     |Paul Irish, Addy Osmani, Jake Archibald
+講師     |Addy Osmani, Jake Archibald, Paul Irish
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要
@@ -37,21 +37,6 @@ end: false
   As Jeff Atwood stated, "Any application that can be written in JavaScript, will eventually be written in JavaScript."I will talk about my experience flying a "Nodecopter" via JavaScript.
 Playing with a hardware using JavaScript is not so new anymore, yet it is a whole new world for me!
 
-
-<h4 id="paul">Mobile Web Developer Tools</h4>
-
-モバイルウェブは急成長を続けている中、デベロッパツールもまた同じように変化し続けている。今回のセッションで、PaulはChromeのデベロッパツールを使って、どう効率的にパフォーマンス解析、バグ修正、そして、いかにサイトの開発を素早く行うのかについての概要に触れていく。様々なパフォーマンス・テクニック、リモート・デバッグのセットアップの方法、そして実機がない場合にどのようにモバイルの機能をエミュレートしていくかについて紹介。
-
-<div class="row">
-    <div class="large-3 columns">
-        <img src="/images/speakers/paul.jpg">
-    </div>
-    <div class="large-9 columns"><h5>Paul Irish <a href="https://twitter.com/paul_irish">@paul_irish</a></h5>
-    <p>Paul IrishはChromeのデベロッパ・アドボケート担当。氏は常に、ツールを使って生産性を高めるワークフローについて考え、どのようにより洗練され、セクシーなモバイルウェブ・アプリを制作できるかを突き詰めている。氏は<a href="http://www.modernizr.com">Modernizr</a>、<a href="http://yeoman.io">Yeoman</a>、<a href="http://html5please.us">HTML5 Please</a>、<a href="http://www.css3please.com">CSS3 Please</a>を始め、様々なオープンソースプロジェクトにも取り組んでいる。</p>
-    </div>
-</div>
-
----
 
 <h4 id="addy">The Mobile Web Development Workflow</h4>
 
@@ -86,5 +71,20 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
     <p>JakeはGoogle Chromeデベロッパー・リレーションチームとして、仕様、テストの実装、そして開発者達の日々の仕事がすこしでも楽になるようなツールを持っているか、などについてフォーカスしている。彼はレンダリングにかかる時間の最適化、プログレッシブ・エンハンスメント、そしてレスポンシブデザインに関わる全てについて熱烈なファンでもある。</p>
 
     <p>JakeはGoogleの前職では<a href="http://lanyrd.com/">Lanyrd</a>でモバイルWebサイトを製作し、<a href="http://www.bbc.co.uk/">BBC</a>ではJavaScriptのライブラリと標準化について担当していた。Web以外では、F1とおいしいビールが大好き。</p>
+    </div>
+</div>
+
+---
+
+<h4 id="paul">Mobile Web Developer Tools</h4>
+
+モバイルウェブは急成長を続けている中、デベロッパツールもまた同じように変化し続けている。今回のセッションで、PaulはChromeのデベロッパツールを使って、どう効率的にパフォーマンス解析、バグ修正、そして、いかにサイトの開発を素早く行うのかについての概要に触れていく。様々なパフォーマンス・テクニック、リモート・デバッグのセットアップの方法、そして実機がない場合にどのようにモバイルの機能をエミュレートしていくかについて紹介。
+
+<div class="row">
+    <div class="large-3 columns">
+        <img src="/images/speakers/paul.jpg">
+    </div>
+    <div class="large-9 columns"><h5>Paul Irish <a href="https://twitter.com/paul_irish">@paul_irish</a></h5>
+    <p>Paul IrishはChromeのデベロッパ・アドボケート担当。氏は常に、ツールを使って生産性を高めるワークフローについて考え、どのようにより洗練され、セクシーなモバイルウェブ・アプリを制作できるかを突き詰めている。氏は<a href="http://www.modernizr.com">Modernizr</a>、<a href="http://yeoman.io">Yeoman</a>、<a href="http://html5please.us">HTML5 Please</a>、<a href="http://www.css3please.com">CSS3 Please</a>を始め、様々なオープンソースプロジェクトにも取り組んでいる。</p>
     </div>
 </div>
