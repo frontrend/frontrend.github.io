@@ -10,7 +10,7 @@ vol: 'chrome'
 tagline: Frontrend x Chrome
 uri: http://frontrend.github.io/events/chrome/
 atnd: http://frontrend.doorkeeper.jp/events/6456
-end: false
+end: true
 ---
 
 イベント名 |Frontrend x Chrome Tech Talk Night Extended
@@ -25,15 +25,17 @@ end: false
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式（一部机あり）、逐次通訳あり
 
++ [Frontrend x Chrome Tech Talk Night Extended - Togetter](http://togetter.com/li/583708)
+
 <h4 id="lt">Lightning Talks</h4>
 
-+ __WebPagetest in 5 minutes__ [@kojismt](https://twitter.com/kojismt)  
++ __[WebPagetest in 5 minutes](https://speakerdeck.com/t32k/webpagetest-in-5-minutes)__ [@kojismt](https://twitter.com/kojismt)  
   いまいち日本では人気のないと思われるWPTの紹介・Speed Indexの意味について紹介。
-+ __Try Web Components__ [@hiloki](https://twitter.com/hiloki)  
++ __[Try Web Components](http://www.slideshare.net/hiloki/try-webcomponents)__ [@hiloki](https://twitter.com/hiloki)  
   Addyの[素晴らしい記事](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)を参考にしながら、WebApp向けのコンポーネントを何かつくってみます。その結果どういうものができたか、またどういった点が難しいかというのをお話します。
 + __Solving the big picture of testing Android devices__ [@gunta85](https://twitter.com/gunta85)  
   多くのAndroid端末を個別に検証しなければならない課題を解決するべく立ち上がった、STF（仮）という開発中のプロジェクトを簡単なデモで紹介します。
-+ __JavaScript Can Fly!__ [@cssradar](https://twitter.com/cssradar)  
++ __[JavaScript Can Fly!](https://speakerdeck.com/studiomohawk/javascript-can-fly)__ [@cssradar](https://twitter.com/cssradar)  
   As Jeff Atwood stated, "Any application that can be written in JavaScript, will eventually be written in JavaScript."I will talk about my experience flying a "Nodecopter" via JavaScript.
 Playing with a hardware using JavaScript is not so new anymore, yet it is a whole new world for me!
 
@@ -43,6 +45,8 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 今日のモバイルウェブ、すべてのデバイスでなめらかな60fpsのパフォーマンスを得ながら、素晴らしいユーザ体験を実現することは非常に難しい挑戦だ。今回のセッションでは、モバイルウェブ・アプリにおける開発そのもの、テスト、そして、パフォーマンス解析に利用できるツールの世界に飛び込んでいく。ターゲットとしているモバイルデバイスからすぐにフィードバックを得ながら開発するためにはどうするのがベストなのか、そして、難しいパフォーマンスに関する決断を後になってしないためにどのように複雑性の規模拡張を行うべきかについて紹介。
 
 また、ローカル、クラウドの環境におけるデバイステストの全ての可能性について考察していく。このセッションで、モバイルウェブに関わるツールについて盤石の概観を見渡すことができるようになり、プロジェクトでより自信を持ってタスクをこなせるようになるはずだ。
+
++ <span class="label secondary radius">Deck</span> - [Mobile Web Development Workflow // Speaker Deck](https://speakerdeck.com/addyosmani/mobile-web-development-workflow)
 
 <div class="row">
     <div class="large-3 columns">
