@@ -67,6 +67,8 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 
 今回のセッションでは、現実的なレンダリングの問題から、どうやってその問題を解決していくべきなのか、どうしてある特定のハックが有効なのになるのかを探り、そして、時にブラウザにとって不利益なことをどのようにチューニングするべきかを紹介していこう。HTMLレイアウトやアニメーションの基礎、GPUを利用したインタラクション、そしてRetinaのような高解像度ディスプレイを持つブラウザやデバイスにおける注意点についても紹介。
 
++ <span class="label secondary radius">Deck</span> - [Rendering without lumps // Speaker Deck](https://speakerdeck.com/jaffathecake/rendering-without-lumps)
+
 <div class="row">
     <div class="large-3 columns">
         <img src="/images/speakers/jake.jpg">
@@ -83,6 +85,9 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 <h4 id="paul">Mobile Web Developer Tools</h4>
 
 モバイルウェブは急成長を続けている中、デベロッパツールもまた同じように変化し続けている。今回のセッションで、PaulはChromeのデベロッパツールを使って、どう効率的にパフォーマンス解析、バグ修正、そして、いかにサイトの開発を素早く行うのかについての概要に触れていく。様々なパフォーマンス・テクニック、リモート・デバッグのセットアップの方法、そして実機がない場合にどのようにモバイルの機能をエミュレートしていくかについて紹介。
+
+
++ <span class="label secondary radius">Deck</span> - [frontrend.jp mobile devtools - Google Drive](https://docs.google.com/presentation/d/1LEk6KoNk8-yL-Ge-y3mw4pV-Z9J8wjMXX_E77Rwq1rw/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
 <div class="row">
     <div class="large-3 columns">
