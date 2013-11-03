@@ -44,7 +44,10 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 
 今日のモバイルウェブ、すべてのデバイスでなめらかな60fpsのパフォーマンスを得ながら、素晴らしいユーザ体験を実現することは非常に難しい挑戦だ。今回のセッションでは、モバイルウェブ・アプリにおける開発そのもの、テスト、そして、パフォーマンス解析に利用できるツールの世界に飛び込んでいく。ターゲットとしているモバイルデバイスからすぐにフィードバックを得ながら開発するためにはどうするのがベストなのか、そして、難しいパフォーマンスに関する決断を後になってしないためにどのように複雑性の規模拡張を行うべきかについて紹介。
 
-また、ローカル、クラウドの環境におけるデバイステストの全ての可能性について考察していく。このセッションで、モバイルウェブに関わるツールについて盤石の概観を見渡すことができるようになり、プロジェクトでより自信を持ってタスクをこなせるようになるはずだ。
+また、ローカル、クラウドの環境におけるデバイステストの全ての可能性について考察していく。このセッションで、モバイルウェブに関わるツールについて盤石の概観を見渡すことができるようになり、プロジェクトでより自信を持ってタスクをこ
+なせるようになるはずだ。
+
+<iframe src="//player.vimeo.com/video/78326642?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/78326642">The Mobile Web Development Workflow</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 + <span class="label secondary radius">Deck</span> - [Mobile Web Development Workflow // Speaker Deck](https://speakerdeck.com/addyosmani/mobile-web-development-workflow)
 
@@ -67,6 +70,8 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 
 今回のセッションでは、現実的なレンダリングの問題から、どうやってその問題を解決していくべきなのか、どうしてある特定のハックが有効なのになるのかを探り、そして、時にブラウザにとって不利益なことをどのようにチューニングするべきかを紹介していこう。HTMLレイアウトやアニメーションの基礎、GPUを利用したインタラクション、そしてRetinaのような高解像度ディスプレイを持つブラウザやデバイスにおける注意点についても紹介。
 
+<iframe src="//player.vimeo.com/video/78330147?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/78330147">Rendering without lumpy bits</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 + <span class="label secondary radius">Deck</span> - [Rendering without lumps // Speaker Deck](https://speakerdeck.com/jaffathecake/rendering-without-lumps)
 
 <div class="row">
@@ -86,6 +91,7 @@ Playing with a hardware using JavaScript is not so new anymore, yet it is a whol
 
 モバイルウェブは急成長を続けている中、デベロッパツールもまた同じように変化し続けている。今回のセッションで、PaulはChromeのデベロッパツールを使って、どう効率的にパフォーマンス解析、バグ修正、そして、いかにサイトの開発を素早く行うのかについての概要に触れていく。様々なパフォーマンス・テクニック、リモート・デバッグのセットアップの方法、そして実機がない場合にどのようにモバイルの機能をエミュレートしていくかについて紹介。
 
+<iframe src="//player.vimeo.com/video/78331559?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/78331559">Mobile Web Developer Tools</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 + <span class="label secondary radius">Deck</span> - [frontrend.jp mobile devtools - Google Drive](https://docs.google.com/presentation/d/1LEk6KoNk8-yL-Ge-y3mw4pV-Z9J8wjMXX_E77Rwq1rw/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
