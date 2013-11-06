@@ -19,7 +19,7 @@ end: false
 会場     |[サイバーエージェント本社 13F セミナールーム](https://www.cyberagent.co.jp/company/access/tokyo.html)
 テーマ   |CI（継続的インテグレーション）
 定員     |200名
-講師     |松下 雅和、Gunther Brunner、佐竹 裕行
+講師     |松下 雅和、Gunther Brunner、Kinnunen Simo、佐竹 裕行
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要
