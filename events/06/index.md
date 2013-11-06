@@ -63,6 +63,16 @@ end: false
     </div>
 </div>
 
+<div class="row">
+    <div class="large-3 columns">
+        <img src="/images/speakers/simo.jpg">
+    </div>
+    <div class="large-9 columns"><h5>Kinnunen Simo (キンヌネン・シモ) <a href="https://twitter.com/sorccu">@sorccu</a></h5>
+    <p>株式会社サイバーエージェント エンジニア<br>
+    2012年サイバーエージェントに入ったフィンランド人です。もう10年以上JavaScriptで開発しています。数年前ヨーロッパ・アメリカで人気だった「cufon」を作りました。サイバーエージェントではほとんどコミュニティアプリに関わって、フロントのJSも、バックエンドとインフラもしています。</p>
+    </div>
+</div>
+
 
 ---
 <h4 id="satake">フロントエンジニアとCIとテスト</h4>
