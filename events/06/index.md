@@ -10,7 +10,7 @@ vol: '06'
 tagline: Continuous Integration
 uri: http://frontrend.github.io/events/06/
 atnd: http://frontrend.doorkeeper.jp/events/6907
-end: false
+end: true
 ---
 
 イベント名 |Frontrend Vol.6 powered by CyberAgent, Inc.
@@ -26,9 +26,13 @@ end: false
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式（一部机あり）
 
++ [Frontrend/06 - Togetter](http://togetter.com/li/590889)
+
 <h4 id="matsushita">いつやるの？Git入門</h4>
 
 皆さん、Gitは使いこなせていますか？Gitをしっかりと理解するためには、コマンドを覚えるだけでは不十分です。Gitがどのような仕組みで動作し、各コマンドの裏で行われている内容を理解することが非常に重要となります。初めてGitに触れる方はもちろん、より深くGitを理解したい方も、一緒にGitを勉強しませんか？
+
++ <span class="label secondary radius">Deck</span> - [いつやるの？Git入門 v1.1.0](http://www.slideshare.net/matsukaz/git-28304397)
 
 <div class="row">
     <div class="large-3 columns">
@@ -42,6 +46,21 @@ end: false
 
 ---
 
+<h4 id="satake">フロントエンジニアとCIとテスト</h4>
+
+フロントエンドのための継続的インテグレーションとテスト。はたして、フロントエンド開発者にCIがいるのかどうなのか。 昨今のSCM(ソフトウェア構成管理)、Gruntを利用したフロントエンド開発環境にJenkinsを取り入れることで、ビルドやテストなどの作業を ローカルの環境だけでなく、リモートの環境でビルドなどのタスクが実行できるようになります。 Jenkinsの導入から、フロントの開発における利用を簡単にご紹介します。
+
+<div class="row">
+    <div class="large-3 columns">
+        <img src="/images/speakers/satake.jpg">
+    </div>
+    <div class="large-9 columns"><h5>佐竹　裕行(さたけ　ひろゆき) <a href="https://twitter.com/st44100">@st44100</a></h5>
+    <p>株式会社サイバーエージェント ディベロッパー<br>
+    1982年滋賀生まれ。IAMAS卒。名古屋でフロントからバックエンド,iOSまでなんでもやるWebエンジニアとして働いたのち,渋谷でJavaScript中心の開発者に。基本前側が好きなWebのエンジニア。知る人ぞ知るあの鍵の人。</p>
+    </div>
+</div>
+
+---
 <h4 id="gunta">Android端末の動作検証の課題を解決: STF</h4>
 
 サイバーエージェントでは現在数多くのAndroid対応のウェブサービスやアプリを提供していますが、問題となるのはそれぞれのAndroid端末を個別に検証しなければならないこと。この課題を解決するべく立ち上がった、STFという開発中のプロジェクトの概念を紹介し、それぞれの機能を細かく説明していきます。
@@ -70,21 +89,5 @@ end: false
     <div class="large-9 columns"><h5>Kinnunen Simo (キンヌネン・シモ) <a href="https://twitter.com/sorccu">@sorccu</a></h5>
     <p>株式会社サイバーエージェント エンジニア<br>
     2012年サイバーエージェントに入ったフィンランド人です。もう10年以上JavaScriptで開発しています。数年前ヨーロッパ・アメリカで人気だった「cufon」を作りました。サイバーエージェントではほとんどコミュニティアプリに関わって、フロントのJSも、バックエンドとインフラもしています。</p>
-    </div>
-</div>
-
-
----
-<h4 id="satake">フロントエンジニアとCIとテスト</h4>
-
-フロントエンドのための継続的インテグレーションとテスト。はたして、フロントエンド開発者にCIがいるのかどうなのか。 昨今のSCM(ソフトウェア構成管理)、Gruntを利用したフロントエンド開発環境にJenkinsを取り入れることで、ビルドやテストなどの作業を ローカルの環境だけでなく、リモートの環境でビルドなどのタスクが実行できるようになります。 Jenkinsの導入から、フロントの開発における利用を簡単にご紹介します。
-
-<div class="row">
-    <div class="large-3 columns">
-        <img src="/images/speakers/satake.jpg">
-    </div>
-    <div class="large-9 columns"><h5>佐竹　裕行(さたけ　ひろゆき) <a href="https://twitter.com/st44100">@st44100</a></h5>
-    <p>株式会社サイバーエージェント ディベロッパー<br>
-    1982年滋賀生まれ。IAMAS卒。名古屋でフロントからバックエンド,iOSまでなんでもやるWebエンジニアとして働いたのち,渋谷でJavaScript中心の開発者に。基本前側が好きなWebのエンジニア。知る人ぞ知るあの鍵の人。</p>
     </div>
 </div>
