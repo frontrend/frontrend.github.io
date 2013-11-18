@@ -24,6 +24,7 @@ excerpt: 2013年11月16日（土）にFrontrend Vol.6 powered by CyberAgent, Inc
 
 + [GitとJenkinsとSTF(仮) at Frontrend Vol.6](http://nakajmg.github.io/blog/2013-11-17/frontrend6.html)
 + [Frontrend Vol.6 | 覚え書き | @kazuhito](http://kidachi.kazuhi.to/blog/archives/037979.html)
++ [#frontrend Vol.6に行ってきた - しるろぐ](http://ofsilvers.hatenablog.com/entry/frontrend-vol6)
 
 ![](/images/2013/1118_2.jpg)
 
@@ -35,5 +36,4 @@ excerpt: 2013年11月16日（土）にFrontrend Vol.6 powered by CyberAgent, Inc
 
 [![](http://sacss.net/special04/images/sacss_frontrend_200200.png)](http://sacss.net/special04/)
 
-
-
++ [SaCSS Special4 Frontrend in Sapporo 見逃せない！最新フロントエンド技術アップデート特集！](http://sacss.net/special04/)

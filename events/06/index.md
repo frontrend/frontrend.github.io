@@ -56,7 +56,7 @@ end: true
     <div class="large-3 columns">
         <img src="/images/speakers/satake.jpg">
     </div>
-    <div class="large-9 columns"><h5>佐竹　裕行(さたけ　ひろゆき) <a href="https://twitter.com/st44100">@st44100</a></h5>
+    <div class="large-9 columns"><h5>佐竹　裕行(さたけ ひろゆき) <a href="https://twitter.com/st44100">@st44100</a></h5>
     <p>株式会社サイバーエージェント ディベロッパー<br>
     1982年滋賀生まれ。IAMAS卒。名古屋でフロントからバックエンド,iOSまでなんでもやるWebエンジニアとして働いたのち,渋谷でJavaScript中心の開発者に。基本前側が好きなWebのエンジニア。知る人ぞ知るあの鍵の人。</p>
     </div>
