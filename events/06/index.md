@@ -50,6 +50,8 @@ end: true
 
 フロントエンドのための継続的インテグレーションとテスト。はたして、フロントエンド開発者にCIがいるのかどうなのか。 昨今のSCM(ソフトウェア構成管理)、Gruntを利用したフロントエンド開発環境にJenkinsを取り入れることで、ビルドやテストなどの作業を ローカルの環境だけでなく、リモートの環境でビルドなどのタスクが実行できるようになります。 Jenkinsの導入から、フロントの開発における利用を簡単にご紹介します。
 
++ <span class="label secondary radius">Deck</span> - [フロントエンド開発者のためのJenkins](http://www.slideshare.net/st44100/ss-28353683)
+
 <div class="row">
     <div class="large-3 columns">
         <img src="/images/speakers/satake.jpg">
@@ -71,6 +73,8 @@ end: true
 * 複数台の Android 端末をいっせいに検証することが可能
 * 検証やデバッグに有効な多数の機能を盛り込む
 * Webブラウザ経由で複数のAndroid端末を同時にコントロールするメリット
+
++ <span class="label secondary radius">Deck</span> - [Frontrend Vol. 6：Android端末の動作検証の課題を解決「STF」 // Speaker Deck](https://speakerdeck.com/gunta/frontrend-vol-6-androidduan-mo-falsedong-zuo-jian-zheng-falseke-ti-wojie-jue-stf)
 
 <div class="row">
     <div class="large-3 columns">
