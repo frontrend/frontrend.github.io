@@ -32,6 +32,8 @@ end: true
 
 皆さん、Gitは使いこなせていますか？Gitをしっかりと理解するためには、コマンドを覚えるだけでは不十分です。Gitがどのような仕組みで動作し、各コマンドの裏で行われている内容を理解することが非常に重要となります。初めてGitに触れる方はもちろん、より深くGitを理解したい方も、一緒にGitを勉強しませんか？
 
+<iframe src="//player.vimeo.com/video/80420326?title=0&amp;byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80420326">いつやるの？Git入門</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 + <span class="label secondary radius">Deck</span> - [いつやるの？Git入門 v1.1.0](http://www.slideshare.net/matsukaz/git-28304397)
 
 <div class="row">
@@ -49,6 +51,8 @@ end: true
 <h4 id="satake">フロントエンジニアとCIとテスト</h4>
 
 フロントエンドのための継続的インテグレーションとテスト。はたして、フロントエンド開発者にCIがいるのかどうなのか。 昨今のSCM(ソフトウェア構成管理)、Gruntを利用したフロントエンド開発環境にJenkinsを取り入れることで、ビルドやテストなどの作業を ローカルの環境だけでなく、リモートの環境でビルドなどのタスクが実行できるようになります。 Jenkinsの導入から、フロントの開発における利用を簡単にご紹介します。
+
+<iframe src="//player.vimeo.com/video/80423620?title=0&amp;byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80423620">フロントエンジニアとCIとテスト</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 + <span class="label secondary radius">Deck</span> - [フロントエンド開発者のためのJenkins](http://www.slideshare.net/st44100/ss-28353683)
 
@@ -73,6 +77,8 @@ end: true
 * 複数台の Android 端末をいっせいに検証することが可能
 * 検証やデバッグに有効な多数の機能を盛り込む
 * Webブラウザ経由で複数のAndroid端末を同時にコントロールするメリット
+
+<iframe src="//player.vimeo.com/video/80427603?title=0&amp;byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80427603">Android端末の動作検証の課題を解決: STF</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 + <span class="label secondary radius">Deck</span> - [Frontrend Vol. 6：Android端末の動作検証の課題を解決「STF」 // Speaker Deck](https://speakerdeck.com/gunta/frontrend-vol-6-androidduan-mo-falsedong-zuo-jian-zheng-falseke-ti-wojie-jue-stf)
 
