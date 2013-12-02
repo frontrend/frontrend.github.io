@@ -23,7 +23,7 @@ AdventarではAdvent Calendarの作成や登録などを行うことができま
 ### Frontrend Advent Calendar リスト
 
 + 12/01 __t32k__ [今どきのGruntを使ったフロントエンド開発（HTML/CSS編） — MOL](http://t32k.me/mol/log/modern-development-workflow__-with-grunt/)
-+ 12/02	__1000ch__	(*´ｪ`*)
++ 12/02	__1000ch__ [Raspberry PiにChromiumとかJenkinsを入れてみた - 1000ch.net](http://1000ch.net/2013/12/02/TryRaspberryPi/)
 + 12/03	__ktknest__	ロボティックな何かを
 + 12/04	__hail2u__	CSSポストプロセッサー時代の到来
 + 12/05	__Hiroki__ Tani	なんかちっちゃいWeb Components/Polymer.jsのなんかつくる、とおもう。
