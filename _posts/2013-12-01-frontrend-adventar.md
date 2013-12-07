@@ -24,11 +24,11 @@ AdventarではAdvent Calendarの作成や登録などを行うことができま
 
 + 12/01 __t32k__ [今どきのGruntを使ったフロントエンド開発（HTML/CSS編） — MOL](http://t32k.me/mol/log/modern-development-workflow__-with-grunt/)
 + 12/02	__1000ch__ [Raspberry PiにChromiumとかJenkinsを入れてみた - 1000ch.net](http://1000ch.net/2013/12/02/TryRaspberryPi/)
-+ 12/03	__ktknest__	ロボティックな何かを
-+ 12/04	__hail2u__	CSSポストプロセッサー時代の到来
-+ 12/05	__Hiroki__ Tani	なんかちっちゃいWeb Components/Polymer.jsのなんかつくる、とおもう。
-+ 12/06	__Ginpei__ Takanashi	CSSアニメーションを綺麗に動かすコツと仕組み（GPUの話）
-+ 12/07	__ahomu__	輝くトラペゾヘドロンについて
++ 12/03	__ktknest__	[Philips hue と API と JavaScript - ELAB.](http://ktkne.st/elab/post/2013/philips-hue-api-javascript.html)
++ 12/04	__hail2u__ [CSSポストプロセッサー時代の到来](http://hail2u.net/documents/css-postprocessor-era.html)
++ 12/05	__Hiroki Tani__ [Web Components/Polymerを軽く触ってみる | inkdesign](http://inkdesign.jp/posts/try-web-components-and-polymer/)
++ 12/06	__Ginpei Takanashi__ [スムーズなアニメーションを実装するコツと仕組みを説明するよ。CPUとGPUを理解しハードウェアアクセラレーションを駆使するのだ！ | Ginpen.com](http://ginpen.com/2013/12/06/hardware-acceleration/)
++ 12/07	__ahomu__	[俺流BackboneラーメンとPhalanxのはなし ::ハブろぐ](http://havelog.ayumusato.com/develop/javascript/e573-phalanx.html)
 + 12/08	__Masataka Yakura__	2013年のWebプラットフォーム前線的なものを。
 + 12/09	__Rochas__	Addy Osmani氏、Jake Archibold氏、Paul Irish氏に会えた感動を議事録に残します。
 + 12/10	__tomof__	AngularJSで何か
