@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frontrend in Sappro が終了しました
+title: Frontrend in Sapporo が終了しました
 description: 2013年12月7日（土）にFrontrend in Sapporo SaCSS Special4を開催しました。
 published: 2013-12-07
 category: news
@@ -8,7 +8,7 @@ tags: blog, frontrend
 excerpt: HTML/CSS/JavaScriptのコーディングのベストプラクティス、ターミナルの利用方法に関してのセッションが開催されました。
 ---
 
-## Frontrend in Sappro が終了しました
+## Frontrend in Sapporo が終了しました
 
 ![](/images/2013/1207_head.jpg)
 
