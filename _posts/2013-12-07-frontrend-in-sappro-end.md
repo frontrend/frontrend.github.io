@@ -5,7 +5,7 @@ description: 2013年12月7日（土）にFrontrend in Sapporo SaCSS Special4を�
 published: 2013-12-07
 category: news
 tags: blog, frontrend
-excerpt: 
+excerpt: HTML/CSS/JavaScriptのコーディングのベストプラクティス、ターミナルの利用方法に関してのセッションが開催されました。
 ---
 
 ## Frontrend in Sappro が終了しました
