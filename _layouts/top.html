@@ -18,10 +18,7 @@
     <!-- Main Blog Content -->
     <div class="large-9 columns" role="content">
 
-      <div class="c"><img src="/images/bg_logo.png" alt=""></div>
-
       {% for post in site.posts %}
-      <hr class="rule">
       <article>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{{ post.excerpt }}</p>

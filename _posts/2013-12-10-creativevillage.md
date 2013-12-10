@@ -1,22 +1,30 @@
 ---
 layout: post
-title: CyberAgent x DeNA フロントエンドエンジニアの仕事に佐藤が登壇します
-description: CSS Nite LP, Disk 32に谷が登壇します
+title: CyberAgent x DeNA フロントエンドエンジニアの仕事に原、佐藤が登壇します
+description: CyberAgent x DeNA フロントエンドエンジニアの仕事に原、佐藤が登壇します
 published: 2013-12-10
 category: news
 tags: event, frontrend
-excerpt: と、コラボ特別編「JavaScript engineer's Night～サイバーエージェント×DeNA ロントエンドエンジニアの仕事」に佐藤が登壇します
+excerpt: と、コラボ特別編「JavaScript engineer's Night～サイバーエージェント×DeNA ロントエンドエンジニアの仕事」に原、佐藤が登壇します
 ---
 
-## CyberAgent x DeNA フロントエンドエンジニアの仕事に佐藤が登壇します
+## CyberAgent x DeNA フロントエンドエンジニアの仕事に原、佐藤が登壇します
 
 ![フロントエンドエンジニアの仕事](/images/2013/1210_cr.jpg)
 
-2013年12月18日（水）クリーク･アンド･リバー社が主催する __と、コラボ特別編「JavaScript engineer's Night～サイバーエージェント×DeNA ロントエンドエンジニアの仕事」__ にFrontrendメンバーである佐藤 歩が登壇します。
+2013年12月18日（水）クリーク･アンド･リバー社が主催する __と、コラボ特別編「JavaScript engineer's Night～サイバーエージェント×DeNA ロントエンドエンジニアの仕事」__ にFrontrendメンバーである原 一成、佐藤 歩の2名が登壇します。
 
 > 今回の「と、コラボ」はJavaScriptにフォーカスし、業界最前線で活躍するサイバーエージェントとDeNAのクリエイターから自身のJavaScriptに対する考えや自社での制作実例、最新技術のトレンドなどプレゼン形式とパネルディスカッションを織り交ぜながらお伺いします。
   そして業界のトップを走る2社だからこそいつもは聞けないお互いの会社が持っている技術・ゲーム・コンテンツに対しての意見や感想、疑問などもお伺いします。
   日頃なかなか見ることのできないサイバーエージェントとDeNAの“制作の裏側”、あなたものぞいてみませんか？
+
+![原 一成](/images/speakers/hara.jpg)
+
+### 原 一成（はら かずなり）
+
+株式会社サイバーエージェント Webディベロッパー
+
+2008年に入社。PC/モバイル向けAmebaブログ、アメゴールドなどを担当後、Amebaブログ、Amebaピグのスマートフォン版を立ち上げ、現在はスマートフォン向けAmebaの開発をしている。主な開発言語はHTML, CSS, JavaScript(node.js含む)。最近はシェルスクリプトに(少しだけ)はまっている。
 
 ![佐藤 歩](/images/speakers/sato.jpg)
 
