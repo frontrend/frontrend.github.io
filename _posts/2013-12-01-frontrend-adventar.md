@@ -29,7 +29,7 @@ AdventarではAdvent Calendarの作成や登録などを行うことができま
 + 12/05	__Hiroki Tani__ [Web Components/Polymerを軽く触ってみる | inkdesign](http://inkdesign.jp/posts/try-web-components-and-polymer/)
 + 12/06	__Ginpei Takanashi__ [スムーズなアニメーションを実装するコツと仕組みを説明するよ。CPUとGPUを理解しハードウェアアクセラレーションを駆使するのだ！ | Ginpen.com](http://ginpen.com/2013/12/06/hardware-acceleration/)
 + 12/07	__ahomu__	[俺流BackboneラーメンとPhalanxのはなし ::ハブろぐ](http://havelog.ayumusato.com/develop/javascript/e573-phalanx.html)
-+ 12/08	__Masataka Yakura__	2013年のWebプラットフォーム前線的なものを。
++ 12/08	__myakura__	[WebプラットフォームのこれからとExtensible Web - fragmentary](http://myakura.hatenablog.com/entry/2013/12/08/235000)
 + 12/09	__Rochas__	Addy Osmani氏、Jake Archibold氏、Paul Irish氏に会えた感動を議事録に残します。
 + 12/10	__tomof__	AngularJSで何か
 + 12/11	__light Chen__		
