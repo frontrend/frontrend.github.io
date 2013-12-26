@@ -42,9 +42,11 @@ AdventarではAdvent Calendarの作成や登録などを行うことができま
 + 12/19	__Tenderfeel__ - [WebTecNote - とあるソシャゲのHTML/CSS設計話](http://tenderfeel.xsrv.jp/memo/1308/)
 + 12/20	__toshi__ - [細かすぎて伝わりにくいChrome Developerツールを使いこなそう！ - Hack Your Design!](http://blog.toshimaru.net/chrome-dev-tool/)
 + 12/21	__thleap__ - [Grunt を導入してみて - CHROMA](http://chroma.hatenablog.com/entry/2013/12/21/175844)
-+ 12/22	__ygoto3__		
-+ 12/23	__ysugimoto__	
-+ 12/24	__st44100__	
-+ 12/25	__kyo_ago__
++ 12/22	__ygoto3__ - [2012 jQuery→Early 2013 Backbone→Late 2013 AngularJSな自分がハマった10のこと | ygoto3's caught up](http://www.ygoto3.com/?p=55)
++ 12/23	__ysugimoto__ - [WebRTCを仕組みから実装までやってみる | Web notes.log](http://blog.wnotes.net/blog/article/webrtc-beginning)
++ 12/24	__st44100__ - [CasperJSでカスタムのアサーションを作る｜st44100のアメブロ](http://ameblo.jp/st44100/entry-11734966912.html)
++ 12/25	__kyo_ago__ - [0-9, Webの高速化によって失われるもの](http://0-9.tumblr.com/post/71103314482/the-cost-of-the-speed)
+
+皆様、お疲れ様でした！ありがとうございました！！
 
 Photo Credit: [Advent - John Morgan | Flickr](http://www.flickr.com/photos/24742305@N00/4221484268/)
