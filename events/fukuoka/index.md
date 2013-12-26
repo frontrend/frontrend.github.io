@@ -21,9 +21,9 @@ end: false
 日時     |1月25日（土）13:00 - 19:00 (12:30開場)
 会場     |[福岡県Ruby・コンテンツ産業振興センター](http://frac.jp/)
 定員     |150名
-主催     |株式会社サイバーエージェント、<br>特定非営利活動法人 AIP、<br>Fukuoka Frontend Frogs
+主催     |株式会社サイバーエージェント、<br>[特定非営利活動法人 AIP](http://www.npo-aip.or.jp/)、<br>[Fukuoka Frontend Frogs]()
 参加費    |社会人：2,000円 学生：1,000円
-懇親会費　| 別途500円
+懇親会費　| 別途：500円
 事前登録  |必要
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式、ハンズオン形式
@@ -37,37 +37,38 @@ end: false
 		<th>時間</th>
 		<th>セミナールームA/B</th>
 		<th>セミナールームC</th>
-		<th>会議室5 C</th>
-	</tr></thead>
+		<th>会議室5</th>
+	</tr>
+	</thead>
 	<tr>
 		<td>12:30</td>
 		<td colspan="3">開場</td>
 	</tr>
 	<tr>
 		<td>13:00</td>
-		<td colspan="3">[A-1] 基調講演：斉藤 祐也</td>
+		<td colspan="3"><b style="color:#44AF35">[A-1]</b> 基調講演：斉藤 祐也</td>
 	</tr>
 	<tr>
 		<td>14:00</td>
-		<td>[E-1] 佐藤 歩</td>
-		<td>[D-1] 石本 光司</td>
-		<td>[H-1] 原 一成</td>
+		<td><b style="color:#03738E">[E-1]</b> 佐藤 歩</td>
+		<td><b style="color:#F15B07">[D-1]</b> 石本 光司</td>
+		<td><b style="color:#F1B703">[H-1]</b> 原 一成</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td>[E-2]  未定 </td>
-		<td>[D-2]  未定 </td>
+		<td><b style="color:#03738E">[E-2]</b>  未定 </td>
+		<td><b style="color:#F15B07">[D-2]</b>  <br>山本 光彦、<br>西村 宗倫、<br>卜部 加奈子</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td>[E-3] 泉水 翔吾</td>
-		<td>[D-3] 水野 隼登</td>
-		<td>[H-2] 谷 拓樹</td>
+		<td><b style="color:#03738E">[E-3]</b> 泉水 翔吾</td>
+		<td><b style="color:#F15B07">[D-3]</b> 水野 隼登</td>
+		<td><b style="color:#F1B703">[H-2]</b> 谷 拓樹</td>
 	</tr>
 	<tr>
 		<td>17:00</td>
-		<td colspan="3">[A-2] パネルディスカッション</td>
+		<td colspan="3"><b style="color:#44AF35">[A-2]</b>  パネルディスカッション</td>
 	</tr>
 	<tr>
 		<td>18:00</td>
@@ -101,9 +102,11 @@ end: false
 ---
 
 <span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-1]__
-<h4 id="ahomu" style="margin-top:-15px">Webフロントエンドのレンダリングパフォーマンスと最適化Tips</h4>
+<h4 id="ahomu" style="margin-top:-15px">Frontend Performance Tuning TIPS * n</h4>
 
-Webフロントエンドのパフォーマンスは、今やページの初期表示を早くすることだけではありません。昨今のHTML/CSS/JavaScriptを駆使したWebコンテンツを、スムーズに動かすには、ブラウザのレンダリング(描画)処理について知る必要があります。このセッションでは、レンダリング上のよくあるボトルネックの見つけ方と対処を中心に、最適化Tipsをお届けします。
+Webフロントエンドのパフォーマンスは、ユーザーにとってファーストインプレッションであり、そのプロダクトを使い続けるときのパートナーでもあります。
+
+本セッションでは、ユーザーにとって、よきフロントエンドであるためのチューニングTipsをご紹介します。チューニング自体に銀の弾丸はありません。これらのTipsが生まれた背景と取捨選択の判断を共有することで、みなさんのチューニングの助けになれば幸いです。
 
 <div class="row">
     <div class="large-3 columns">
@@ -131,12 +134,56 @@ Webデザインとは単にページを作るということではなく破綻�
         <h5>石本 光司（いしもと こうじ） <a href="https://twitter.com/t32k">@t32k</a></h5>
         <p>株式会社サイバーエージェント フロントエンドディベロッパー<br>
 1983年石川県生まれ。大学でデザインを専攻後、晴れてWebデザイナーになるが、コーディング好きが高じてWebデベロッパーに転身。主要な業務としてはHTML/CSS/JavaScriptといったフロントエンド全般を担当。また社内教育やマークアップ監査なども担当している。<br>
-また、個人ブログ「<a href="http://t32k.me/mol/">MOL - Designing for a Mobile World!</a>」ではWebパフォーマンスやモバイルに関する記事を書いている。不定期でフロントエンドデベロッパーコミュニティ「<a href="http://frontrend.github.io/">Frontrend</a>」を主催している。</p>
+また、個人ブログ「<a href="http://t32k.me/mol/">MOL - Designing for a Mobile World!</a>」ではWebパフォーマンスやモバイルに関する記事を書いている。不定期でフロントエンドディベロッパーコミュニティ「<a href="http://frontrend.github.io/">Frontrend</a>」を主催している。</p>
     </div>
 </div>
 
 ---
 
+<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-2]__
+<h4 id="ya_ma23" style="margin-top:-15px">商店街を参加型デザインで考える（仮</h4>
+
+「まちづくり」には行政だけでなく、地域の方、商店街の方、学生、デザイナー、プログラマーなど、多様な方々が一緒に参加し、新しいサービスの発見に取り組みます。学習するデザイン手法や考えかたは「まちづくり」だけでなく、さまざまなサービスにも応用ができます。
+
+<div class="row">
+    <div class="large-3 columns">
+        <img src="/images/speakers/yamamoto.jpg">
+    </div>
+    <div class="large-9 columns">
+        <h5>山本 光彦（やまもと みつひこ） <a href="https://twitter.com/ya_ma23">@ya_ma23</a></h5>
+        <p>株式会社Ｆｕｓｉｃ　エンジニア<br>
+UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（ユーザーエクスペリエンス）や人間中心設計にまつわることがらを、学び、研究するコミュニティです。
+ほぼ毎月、勉強会を催しています。</p>
+    </div>
+</div>
+
+<h4 id="mune_nori">HTML5と最近のフロントエンド事情 -思考と作業編</h4>
+
+進化するWeb技術の中で目的を実現する為に選択肢が増えてきた昨今、効率良く作業していく為には何を選ぶべきなのか、講師２人の対談形式のセッションで掘り下げていきます。
+
+<div class="row">
+    <div class="large-3 columns">
+        <img src="/images/speakers/nishimura.jpg">
+    </div>
+    <div class="large-9 columns">
+        <h5>西村 宗倫（にしむら むねのり） <a href="https://twitter.com/mune_nori">@mune_nori</a></h5>
+        <p>Webディレクター／デザイナー<br>
+福岡マークアップ勉強会 HTML5+α @ 福岡 福岡WEBディレクターズ 運営
+好きな食べ物はラーメン</p>
+    </div>
+</div>
+<div class="row" style="margin-top:15px">
+    <div class="large-3 columns">
+        <img src="/images/speakers/urabe.jpg">
+    </div>
+    <div class="large-9 columns">
+        <h5>卜部 加奈子（うらべ かなこ） <a href="https://twitter.com/kanapple73">@kanapple73</a></h5>
+        <p>フロントエンドエンジニア<br>
+福岡マークアップ勉強会 HTML5+α @ 福岡 webっちゃ 運営</p>
+    </div>
+</div>
+
+---
 <span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-3]__
 <h4 id="1000ch" style="margin-top:-15px">Browser Computing Structure</h4>
 
@@ -237,3 +284,9 @@ __対象者__
     中小企業向けのアプリケーション開発、スタートアップでのスマートフォンサイト制作などを経て、現在はスマートフォンアプリの開発、テクニカルディレクションを担当している。 主な著書に「 <a href="http://www.amazon.co.jp/dp/4899772750/">魅せるiPhoneサイト</a> 」「 <a href="http://www.amazon.co.jp/dp/4844362232/">スマートフォン制作の教科書（共著）</a> 」。</p>
     </div>
 </div>
+
+
+<span class="label radius">Panel Discussion</span> __[A-2]__
+<h4 id="hiloki" style="margin-top:-15px">パネルディスカッション</h4>
+
+ほげほげ
