@@ -6,6 +6,7 @@ day: 25th January 2014
 title: Frontrend in Fukuoka
 title-headr: /images/hd_fukuoka.jpg
 description: 2014/1/25 (土)Frontrend in Fukuokaを開催します。
+excerpt: フロントエンドの最先端で活躍中のデザイナー、プログラマーが 現場で使われている最新の技術や知識、フロントエンドの未来に ついて分かりやすく解説！今回は Frontrend 最終章の企画として 「Web プログラマー」向け、「Web デザイナー」向けのハンズオン も同時開催！！他にもデザイナー、プログラマー必見の最強講師陣 が登壇します。福岡の熱い冬を是非体験ください！！
 vol: 'fukuoka'
 tagline: Frontrend in Fukuoka
 uri: http://frontrend.github.io/events/fukuoka/
@@ -265,14 +266,14 @@ __対象者__
 </div>
 
 <span class="label radius" style="background: #F1B703">Hands-on</span> __[H-2]__
-<h4 id="hiloki" style="margin-top:-15px">CSS設計 チュートリアル</h4>
+<h4 id="hiloki" style="margin-top:-15px">Goal of Better CSS Architecture より良いCSS設計のゴールを考える</h4>
 
-本ハンズオンセッションでは、保守性・再利用性の高いCSSの設計を考えるセッションになります。
-運用にともなって複雑になるWebサイト、WebアプロケーションのCSS運用において、どのようにすれば
-その保守コストを下げられるのか、というアイデアを実際に手を動かしながら考えてみましょう。
+本ハンズオンセッションでは、保守性・再利用性の高いCSSの設計を考えるセッションになります。 運用にともなって複雑になるWebサイト、WebアプロケーションのCSS運用において、どのようにすれば その保守コストを下げられるのか、というアイデアを実際に手を動かしながら考えてみましょう。
 
-+ PCが必須となります。バッテリーについて全員分確保できない場合がありますので、事前に十分に充電しておくことをおすすめします。
-+ OSやエディターは問いませんので、使い慣れているものをお使いください。
+__対象者__
+
++ 基本的なHTML/CSSの知識を有している方
++ 業務でHTMLマークアップ、CSSレイアウト実装をおこなっている方
 
 <div class="row">
     <div class="large-3 columns">
