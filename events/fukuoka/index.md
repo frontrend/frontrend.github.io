@@ -57,7 +57,7 @@ end: false
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td><b style="color:#03738E">[E-2]</b>  未定 </td>
+		<td><b style="color:#03738E">[E-2]</b>  調整中 </td>
 		<td><b style="color:#F15B07">[D-2]</b>  <br>山本 光彦、<br>西村 宗倫、<br>卜部 加奈子</td>
 		<td></td>
 	</tr>
@@ -146,9 +146,9 @@ Webデザインとは単にページを作るということではなく破綻�
 ---
 
 <span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-2]__ 45min. 15:00 ~
-<h4 id="ahomu" style="margin-top:-15px">未定</h4>
+<h4 id="ahomu" style="margin-top:-15px"> - </h4>
 
-（未定）
+（調整中）
 
 <span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-2]__ 25min. x 2 15:00 ~
 <h4 id="ya_ma23" style="margin-top:-15px">商店街を参加型デザインで考える（仮</h4>
@@ -213,9 +213,9 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 
 
 <span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-3]__ 45min. 16:00 ~
-<h4 id="pocotan001" style="margin-top:-15px">おっす！おらぽこたん！</h4>
+<h4 id="pocotan001" style="margin-top:-15px">Development Is Design（仮）</h4>
 
-いっちょ、ぽこたんっ！れっつぽこたん！いんじょいぽこたん！
+フロントエンドの観点から柔軟なデザインプロセスの構築、Webの特性を踏まえたデザインについて紹介します。
 
 <div class="row" id="pocotan001">
     <div class="large-3 columns">
@@ -313,4 +313,4 @@ __対象者__
 
 ##### パネラー
 
-+（TBA）
++（調整中）
