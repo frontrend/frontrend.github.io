@@ -5,8 +5,7 @@ date: 2014-1-25
 day: 25th January 2014
 title: Frontrend in Fukuoka
 title-headr: /images/hd_fukuoka.jpg
-description: 2014/1/25 (土)Frontrend in Fukuokaを開催します。
-excerpt: フロントエンドの最先端で活躍中のデザイナー、プログラマーが 現場で使われている最新の技術や知識、フロントエンドの未来に ついて分かりやすく解説！今回は Frontrend 最終章の企画として 「Web プログラマー」向け、「Web デザイナー」向けのハンズオン も同時開催！！他にもデザイナー、プログラマー必見の最強講師陣 が登壇します。福岡の熱い冬を是非体験ください！！
+description: 2014/1/25 (土)Frontrend in Fukuokaを開催します。フロントエンドの最先端で活躍中のデザイナー、プログラマーが 現場で使われている最新の技術や知識、フロントエンドの未来に ついて分かりやすく解説！今回は Frontrend 最終章の企画として 「Webプログラマー」向け、「Webデザイナー」向けのハンズオンも同時開催！！他にもデザイナー、プログラマー必見の最強講師陣が登壇します。福岡の熱い冬を是非体験ください！！
 vol: 'fukuoka'
 tagline: Frontrend in Fukuoka
 uri: http://frontrend.github.io/events/fukuoka/
@@ -22,8 +21,9 @@ end: false
 日時     |1月25日（土）13:00 - 19:00 (12:30開場)
 会場     |[福岡県Ruby・コンテンツ産業振興センター](http://frac.jp/)
 定員     |150名
-主催     |株式会社サイバーエージェント、<br>[特定非営利活動法人 AIP](http://www.npo-aip.or.jp/)、<br>[Fukuoka Frontend Frogs]()
-参加費    |社会人：2,000円 学生：1,000円
+主催     |[特定非営利活動法人 AIP](http://www.npo-aip.or.jp/)<br>[Fukuoka Frontend Frogs]()
+共催     |株式会社サイバーエージェント
+参加費    |社会人：2,000円、学生：1,000円
 懇親会費　| 別途：500円
 事前登録  |必要
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
@@ -75,14 +75,18 @@ end: false
 		<td>18:00</td>
 		<td colspan="3">懇親会（ビアバッシュ）</td>
 	</tr>
+	<tr>
+		<td>19:00</td>
+		<td colspan="3">終了</td>
+	</tr>
 </table>
 
 ### セッション概要とプロフィール
 
 
 
-<span class="label radius">Keynote</span> __[A-1]__
-<h4 id="cssradar" style="margin-top:-15px">レベルアップ: フロントエンド・スキル(仮)</h4>
+<span class="label radius">Keynote</span> __[A-1]__ 45min. 13:00 ~
+<h4 id="cssradar" style="margin-top:-15px">レベルアップ：知っておきたいフロントエンド開発の今</h4>
 
 フロントエンドデベロッパ/エンジニアの定義は様々です。しかし現在のWeb開発において欠かすことができない能力の1つであることは間違いありません。
 フロントエンドを専門とする人は決して多くはありませんが、誰しもが少しのフロントエンドの経験を持っているはずです。その経験を次のレベルに上げていくために知っておきたい、現在のフロントエンドデベロッパに求められるスキルセットについて紹介していきます。
@@ -102,7 +106,7 @@ end: false
 
 ---
 
-<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-1]__
+<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-1]__ 45min. 14:00 ~
 <h4 id="ahomu" style="margin-top:-15px">Frontend Performance Tuning TIPS * n</h4>
 
 Webフロントエンドのパフォーマンスは、ユーザーにとってファーストインプレッションであり、そのプロダクトを使い続けるときのパートナーでもあります。
@@ -121,7 +125,7 @@ Webフロントエンドのパフォーマンスは、ユーザーにとって�
 </div>
 
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-1]__
+<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-1]__ 45min. 14:00 ~
 <h4 id="t32k" style="margin-top:-15px">Efficient UI Development</h4>
 
 Webデザインとは単にページを作るということではなく破綻のない『システム』をデザインしなければなりません。そのためにパターン、コンポーネント
@@ -141,7 +145,12 @@ Webデザインとは単にページを作るということではなく破綻�
 
 ---
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-2]__
+<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-2]__ 45min. 15:00 ~
+<h4 id="ahomu" style="margin-top:-15px">未定</h4>
+
+（未定）
+
+<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-2]__ 25min. x 2 15:00 ~
 <h4 id="ya_ma23" style="margin-top:-15px">商店街を参加型デザインで考える（仮</h4>
 
 「まちづくり」には行政だけでなく、地域の方、商店街の方、学生、デザイナー、プログラマーなど、多様な方々が一緒に参加し、新しいサービスの発見に取り組みます。学習するデザイン手法や考えかたは「まちづくり」だけでなく、さまざまなサービスにも応用ができます。
@@ -185,7 +194,7 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 </div>
 
 ---
-<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-3]__
+<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-3]__ 45min. 16:00 ~
 <h4 id="1000ch" style="margin-top:-15px">Browser Computing Structure</h4>
 
 最近のWebにはBackbone.jsなどを使ったSPA(Single Page Application)が増えてきました。SPAはブラウザのメモリを抱えがちであり、特にモバイル端末においてはパフォーマンスに影響する、無視できない問題になっています。本セッションではブラウザのメモリ管理の仕組みに着目し、メモリがパフォーマンスに与える影響と、処理の最適化について考察します。
@@ -203,10 +212,10 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 </div>
 
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-3]__
-<h4 id="pocotan001" style="margin-top:-15px">デザイナーとフロントエンドエンジニアの関係</h4>
+<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-3]__ 45min. 16:00 ~
+<h4 id="pocotan001" style="margin-top:-15px">おっす！おらぽこたん！</h4>
 
-デザイナーとほげほげ
+いっちょ、ぽこたんっ！れっつぽこたん！いんじょいぽこたん！
 
 <div class="row" id="pocotan001">
     <div class="large-3 columns">
@@ -221,8 +230,10 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 
 ---
 
-<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-1]__
+<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-1]__ 90min. 14:00 ~
 <h4 id="herablog" style="margin-top:-15px">怖くないGit for Frontend Engineers ~入門から導入ノウハウまで~</h4>
+
+__※ ハンズオン参加には本編とは別途Zusaarからの申し込みが必要です。[Gitハンズオン申し込み](http://www.zusaar.com/event/2767005)__
 
 ソースコード管理システムとしてスタンダードになっているGitですが、機能が豊富で「なんか怖い」と思ってしまいがちです。特にフロントエンドの担当者にとっては距離を感じるものでもあります。
 
@@ -265,8 +276,10 @@ __対象者__
     </div>
 </div>
 
-<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-2]__
+<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-2]__ 90min. 15:30 ~
 <h4 id="hiloki" style="margin-top:-15px">Goal of Better CSS Architecture より良いCSS設計のゴールを考える</h4>
+
+__※ ハンズオン参加には本編とは別途Zusaarからの申し込みが必要です。[CSSハンズオン申し込み](http://www.zusaar.com/event/2767006)__
 
 本ハンズオンセッションでは、保守性・再利用性の高いCSSの設計を考えるセッションになります。 運用にともなって複雑になるWebサイト、WebアプロケーションのCSS運用において、どのようにすれば その保守コストを下げられるのか、というアイデアを実際に手を動かしながら考えてみましょう。
 
@@ -287,7 +300,17 @@ __対象者__
 </div>
 
 
-<span class="label radius">Panel Discussion</span> __[A-2]__
+<span class="label radius">Panel Discussion</span> __[A-2]__ 45min. 17:00 ~
 <h4 id="hiloki" style="margin-top:-15px">パネルディスカッション</h4>
 
-ほげほげ
+それぞれ異なる立場や経験を持つN名のパネリストが、どんな風にキャリアを積んできたのか、そして彼ら自身は今後どんな方向に自身のキャリアを考えているのか。
+第一線で活躍するパネリストから、なかなか聞けない生の声をパネルディスカッション形式でお届けします。
+
+##### モデレーター
+
++ 中島 幸樹 [@kuronekomichael](https://twitter.com/kuronekomichael)
++ 斉藤 祐也 [@cssradar](https://twitter.com/cssradar)
+
+##### パネラー
+
++（TBA）
