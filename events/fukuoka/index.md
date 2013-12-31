@@ -3,9 +3,9 @@ layout: event
 category: event
 date: 2014-1-25
 day: 25th January 2014
-title: Frontrend in Fukuoka
+title: Frontrend in Fukuoka 2014年1月25日（土）開催！
 title-headr: /images/hd_fukuoka.jpg
-description: 2014/1/25 (土)Frontrend in Fukuokaを開催します。フロントエンドの最先端で活躍中のデザイナー、プログラマーが 現場で使われている最新の技術や知識、フロントエンドの未来に ついて分かりやすく解説！今回は Frontrend 最終章の企画として 「Webプログラマー」向け、「Webデザイナー」向けのハンズオンも同時開催！！他にもデザイナー、プログラマー必見の最強講師陣が登壇します。福岡の熱い冬を是非体験ください！！
+description: フロントエンドの最先端で活躍中のデザイナー、エンジニアが現場で使っている最新の技術と知識や、フロントエンドの未来についてお話します！
 vol: 'fukuoka'
 tagline: Frontrend in Fukuoka
 uri: http://frontrend.github.io/events/fukuoka/
@@ -47,29 +47,29 @@ end: false
 	</tr>
 	<tr>
 		<td>13:00</td>
-		<td colspan="3"><b style="color:#44AF35">[A-1]</b> 基調講演：斉藤 祐也</td>
+		<td colspan="3"><b style="color:#AB69C6">[A-1]</b> 基調講演：斉藤 祐也</td>
 	</tr>
 	<tr>
 		<td>14:00</td>
-		<td><b style="color:#03738E">[E-1]</b> 佐藤 歩</td>
-		<td><b style="color:#F15B07">[D-1]</b> 石本 光司</td>
-		<td><b style="color:#F1B703">[H-1]</b> 原 一成</td>
+		<td><b style="color:#3393AE">[E-1]</b> 佐藤 歩</td>
+		<td><b style="color:#E67E22">[D-1]</b> 石本 光司</td>
+		<td><b style="color:#1ABC9C">[H-1]</b> 原 一成</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td><b style="color:#03738E">[E-2]</b>  調整中 </td>
-		<td><b style="color:#F15B07">[D-2]</b>  <br>山本 光彦、<br>西村 宗倫、<br>卜部 加奈子</td>
+		<td><b style="color:#3393AE">[E-2]</b>  調整中 </td>
+		<td><b style="color:#E67E22">[D-2]</b>  <br>山本 光彦、<br>西村 宗倫、<br>卜部 加奈子</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td><b style="color:#03738E">[E-3]</b> 泉水 翔吾</td>
-		<td><b style="color:#F15B07">[D-3]</b> 水野 隼登</td>
-		<td><b style="color:#F1B703">[H-2]</b> 谷 拓樹</td>
+		<td><b style="color:#3393AE">[E-3]</b> 泉水 翔吾</td>
+		<td><b style="color:#E67E22">[D-3]</b> 水野 隼登</td>
+		<td><b style="color:#1ABC9C">[H-2]</b> 谷 拓樹</td>
 	</tr>
 	<tr>
 		<td>17:00</td>
-		<td colspan="3"><b style="color:#44AF35">[A-2]</b>  パネルディスカッション</td>
+		<td colspan="3"><b style="color:#AB69C6">[A-2]</b>  パネルディスカッション</td>
 	</tr>
 	<tr>
 		<td>18:00</td>
@@ -81,11 +81,10 @@ end: false
 	</tr>
 </table>
 
+
 ### セッション概要とプロフィール
 
-
-
-<span class="label radius">Keynote</span> __[A-1]__ 45min. 13:00 ~
+<span class="label radius" style="background-color:#AB69C6">Keynote</span> __[A-1]__ 45min. 13:00 ~
 <h4 id="cssradar" style="margin-top:-15px">レベルアップ：知っておきたいフロントエンド開発の今</h4>
 
 フロントエンドデベロッパ/エンジニアの定義は様々です。しかし現在のWeb開発において欠かすことができない能力の1つであることは間違いありません。
@@ -106,7 +105,7 @@ end: false
 
 ---
 
-<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-1]__ 45min. 14:00 ~
+<span class="label radius" style="background: #3393AE">Engineer's Track</span> __[E-1]__ 45min. 14:00 ~
 <h4 id="ahomu" style="margin-top:-15px">Frontend Performance Tuning TIPS * n</h4>
 
 Webフロントエンドのパフォーマンスは、ユーザーにとってファーストインプレッションであり、そのプロダクトを使い続けるときのパートナーでもあります。
@@ -125,7 +124,7 @@ Webフロントエンドのパフォーマンスは、ユーザーにとって�
 </div>
 
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-1]__ 45min. 14:00 ~
+<span class="label radius" style="background: #E67E22">Designer's Track</span> __[D-1]__ 45min. 14:00 ~
 <h4 id="t32k" style="margin-top:-15px">Efficient UI Development</h4>
 
 Webデザインとは単にページを作るということではなく破綻のない『システム』をデザインしなければなりません。そのためにパターン、コンポーネント
@@ -145,12 +144,12 @@ Webデザインとは単にページを作るということではなく破綻�
 
 ---
 
-<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-2]__ 45min. 15:00 ~
+<span class="label radius" style="background: #3393AE">Engineer's Track</span> __[E-2]__ 45min. 15:00 ~
 <h4 id="ahomu" style="margin-top:-15px"> - </h4>
 
 （調整中）
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-2]__ 25min. x 2 15:00 ~
+<span class="label radius" style="background: #E67E22">Designer's Track</span> __[D-2]__ 25min. x 2 15:00 ~
 <h4 id="ya_ma23" style="margin-top:-15px">商店街を参加型デザインで考える（仮</h4>
 
 「まちづくり」には行政だけでなく、地域の方、商店街の方、学生、デザイナー、プログラマーなど、多様な方々が一緒に参加し、新しいサービスの発見に取り組みます。学習するデザイン手法や考えかたは「まちづくり」だけでなく、さまざまなサービスにも応用ができます。
@@ -194,7 +193,7 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 </div>
 
 ---
-<span class="label radius" style="background: #03738E">Engineer's Track</span> __[E-3]__ 45min. 16:00 ~
+<span class="label radius" style="background: #3393AE">Engineer's Track</span> __[E-3]__ 45min. 16:00 ~
 <h4 id="1000ch" style="margin-top:-15px">Browser Computing Structure</h4>
 
 最近のWebにはBackbone.jsなどを使ったSPA(Single Page Application)が増えてきました。SPAはブラウザのメモリを抱えがちであり、特にモバイル端末においてはパフォーマンスに影響する、無視できない問題になっています。本セッションではブラウザのメモリ管理の仕組みに着目し、メモリがパフォーマンスに与える影響と、処理の最適化について考察します。
@@ -212,7 +211,7 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 </div>
 
 
-<span class="label radius" style="background: #F15B07">Designer's Track</span> __[D-3]__ 45min. 16:00 ~
+<span class="label radius" style="background: #E67E22">Designer's Track</span> __[D-3]__ 45min. 16:00 ~
 <h4 id="pocotan001" style="margin-top:-15px">Development Is Design（仮）</h4>
 
 フロントエンドの観点から柔軟なデザインプロセスの構築、Webの特性を踏まえたデザインについて紹介します。
@@ -230,7 +229,7 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 
 ---
 
-<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-1]__ 90min. 14:00 ~
+<span class="label radius" style="background: #1ABC9C">Hands-on</span> __[H-1]__ 90min. 14:00 ~
 <h4 id="herablog" style="margin-top:-15px">怖くないGit for Frontend Engineers ~入門から導入ノウハウまで~</h4>
 
 __※ ハンズオン参加には本編とは別途Zusaarからの申し込みが必要です。[Gitハンズオン申し込み](http://www.zusaar.com/event/2767005)__
@@ -276,7 +275,7 @@ __対象者__
     </div>
 </div>
 
-<span class="label radius" style="background: #F1B703">Hands-on</span> __[H-2]__ 90min. 15:30 ~
+<span class="label radius" style="background: #1ABC9C">Hands-on</span> __[H-2]__ 90min. 15:30 ~
 <h4 id="hiloki" style="margin-top:-15px">Goal of Better CSS Architecture より良いCSS設計のゴールを考える</h4>
 
 __※ ハンズオン参加には本編とは別途Zusaarからの申し込みが必要です。[CSSハンズオン申し込み](http://www.zusaar.com/event/2767006)__
@@ -300,7 +299,7 @@ __対象者__
 </div>
 
 
-<span class="label radius">Panel Discussion</span> __[A-2]__ 45min. 17:00 ~
+<span class="label radius" style="background-color:#AB69C6">Panel Discussion</span> __[A-2]__ 45min. 17:00 ~
 <h4 id="hiloki" style="margin-top:-15px">パネルディスカッション</h4>
 
 それぞれ異なる立場や経験を持つ数名のパネリストが、どんな風にキャリアを積んできたのか、そして彼ら自身は今後どんな方向に自身のキャリアを考えているのか。
