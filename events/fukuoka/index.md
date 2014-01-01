@@ -16,7 +16,7 @@ end: false
 
 ### 概要
 
-イベント名 |Frontrend in Fukuoka
+イベント名 |[Frontrend in Fukuoka](http://frontendfrogs.org/frontrend/)
 ---------|---------------------------------------------------------------
 日時     |1月25日（土）13:00 - 19:00 (12:30開場)
 会場     |[福岡県Ruby・コンテンツ産業振興センター](http://frac.jp/)
