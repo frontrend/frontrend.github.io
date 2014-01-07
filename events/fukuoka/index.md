@@ -212,9 +212,9 @@ UX Fukuoka は、福岡を中心とした地域で活動する人々が、UX（�
 
 
 <span class="label radius" style="background: #E67E22">Designer's Track</span> __[D-3]__ 45min. 16:00 ~
-<h4 id="pocotan001" style="margin-top:-15px">Development Is Design（仮）</h4>
+<h4 id="pocotan001" style="margin-top:-15px">フロントエンドの求めるデザイン</h4>
 
-フロントエンドの観点から柔軟なデザインプロセスの構築、Webの特性を踏まえたデザインについて紹介します。
+デバイスの多様化はとどまる所を知らず、Webデザインは複雑化するばかり。 960pxで固定された従来のカンプは、現在のWebを効率よくデザイン出来ているとは言えません。 本セッションでは、デザイナーとディベロッパーのギャップを埋めるべく、フロントエンド指向のWebデザインについてお話し出来ればと思っています。 特に、柔軟なデザインプロセス、パフォーマンスチューニングなどについて焦点を当てていきます。
 
 <div class="row" id="pocotan001">
     <div class="large-3 columns">
