@@ -87,7 +87,7 @@ JavaScriptは、ブラウザとテキストエディタがあれば開発でき�
         <p>株式会社サイバーエージェント Webディベロッパー<br>
 1979年生まれ。ネバダ州立ラスベガス大学、プリントジャーナリズム学部卒。株式会社All Aboutで6年、2012年2月からは株式会社サイバーエージェントへ。
 
-個人ではフロントエンドデベロッパのためのミニブックというコンセプトのブログ <a href="http://css.studiomohawk.com/">CSS Radar</a>  をはじめ海外記事の翻訳を掲載している <a href="http://enja.studiomohawk.com/">en.ja</a> 、OSSのドキュメント翻訳コミュニティ <a href="https://github.com/enja-oss">en.ja OSS</a> を運営している。</p>
+個人ではフロントエンドデベロッパのためのミニブックというコンセプトのブログ <a href="http://css.studiomohawk.com/">CSS Radar</a>  をはじめ海外記事の翻訳を掲載している <a href="http://article.enja.io/">en.ja</a> 、OSSのドキュメント翻訳コミュニティ <a href="https://github.com/enja-oss">en.ja OSS</a> を運営している。</p>
     </div>
 </div>
 
