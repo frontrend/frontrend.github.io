@@ -26,7 +26,7 @@ end: false
 参加費    |社会人：2,000円、学生：1,000円
 懇親会費　| 別途：500円
 事前登録  |必要
-タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
+タグ     |[#frontrend_ff](https://twitter.com/search?q=%23frontrend_ff)
 備考     |スクール形式、ハンズオン形式
 
 
@@ -57,7 +57,7 @@ end: false
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td><b style="color:#3393AE">[E-2]</b>  調整中 </td>
+		<td><b style="color:#3393AE">[E-2]</b> 下川 北斗</td>
 		<td><b style="color:#E67E22">[D-2]</b>  <br>山本 光彦、<br>西村 宗倫、<br>卜部 加奈子</td>
 		<td></td>
 	</tr>
@@ -145,9 +145,20 @@ Webデザインとは単にページを作るということではなく破綻�
 ---
 
 <span class="label radius" style="background: #3393AE">Engineer's Track</span> __[E-2]__ 45min. 15:00 ~
-<h4 id="ahomu" style="margin-top:-15px"> - </h4>
+<h4 id="hokuts" style="margin-top:-15px"> 「HTML5でこんなことやりたいんですけど」というご相談を頂いたのでHTML5使わずにやってみた </h4>
 
-（調整中）
+顧客の考える「HTML5でやりたいこと」は、HTML5まわりの新技術を使わなくても実現できたり、それらの技術を使わない方がニーズにマッチしたりすることもあります。 
+そういったご提案をする中で、それでも技術者は新技術について学んでおくべきだと思う根拠を、実例をもとにご紹介します。
+
+<div class="row">
+    <div class="large-3 columns">
+        <img src="http://frontendfrogs.org/frontrend/images/hokuts.jpg">
+    </div>
+    <div class="large-9 columns">
+        <h5>下川 北斗（しもかわ ほくと） <a href="https://twitter.com/hokuts">@hokuts</a></h5>
+        <p>株式会社アルキー 代表取締役、プログラマー<br>OpenIDやOAuthを利用した認証基盤を中心に、様々なwebアプリケーションの開発に携わる。<br>クライアントサイドでは、iPhoneアプリの開発や、HTML上でのアニメーション表現などを主に請け負う。 2009年9月から2年半、福岡でHTML5のコミュニティを運営。</p>
+    </div>
+</div>
 
 <span class="label radius" style="background: #E67E22">Designer's Track</span> __[D-2]__ 25min. x 2 15:00 ~
 <h4 id="ya_ma23" style="margin-top:-15px">UIとUXって何が違うんだろう</h4>
