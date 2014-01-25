@@ -12,7 +12,7 @@ excerpt: 最先端で活躍中のデザイナー、エンジニアが最新の�
 
 ![](/images/2014/0125_head.jpg)
 
-2014年12月7日、福岡県福岡市で地元のWebコミュニティ[Fukuoka Frontrend Frogs](http://frontendfrogs.org/)を中心とする実行委員の協力の下、Frontrend in Fukuokaを開催し、関係者を含め200名近くの方にご参加いただきました。
+2014年1月25日、福岡県福岡市で地元のWebコミュニティ[Fukuoka Frontrend Frogs](http://frontendfrogs.org/)を中心とする実行委員の協力の下、Frontrend in Fukuokaを開催し、関係者を含め200名近くの方にご参加いただきました。
 
 フロントエンドの最先端で活躍中のデザイナー、エンジニアが現場で使っている最新の技術と知識や、フロントエンドの未来について熱い議論が交わされました。
 
