@@ -12,6 +12,8 @@ uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
 end: true
 location: Tokyo
+photo-url: 'http://www.flickr.com/photos/orbeckst/314132480/'
+photo-by: 'Rhinoceros by Oliver Beckstein'
 ---
 
 イベント名 |Frontrend Vol.4 powered by CyberAgent, Inc.

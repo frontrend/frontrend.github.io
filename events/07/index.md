@@ -4,14 +4,16 @@ category: event
 date: 2014-04-19
 day: 19th April 2014
 title: Frontrend Vol.7 powered by CyberAgent, Inc.
-title-headr: /images/hd_06.jpg
+title-headr: /images/hd_07.png
 description: サイバーエージェントが主催するフロントエンド系技術セミナーです。HTML5/CSS3やJavaScriptのトレンドやノウハウ等を惜しみなくお伝えします。
 vol: '07'
 tagline: Web API
 uri: http://frontrend.github.io/events/07/
-atnd: http://frontrend.doorkeeper.jp/events/6907
+atnd: http://frontrend.doorkeeper.jp/
 end: false
 location: Tokyo
+photo-url: 'http://www.flickr.com/photos/blprnt/3290930185/'
+photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 ---
 
 イベント名 |Frontrend Vol.7 powered by CyberAgent, Inc.

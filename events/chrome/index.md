@@ -12,6 +12,8 @@ uri: http://frontrend.github.io/events/chrome/
 atnd: http://frontrend.doorkeeper.jp/events/6456
 end: true
 location: Tokyo
+photo-url: 'http://www.flickr.com/photos/dominicspics/3512179740/'
+photo-by: 'C-Curve - Anish Kapoor by Dominic Alves'
 ---
 
 イベント名 |Frontrend x Chrome Tech Talk Night Extended

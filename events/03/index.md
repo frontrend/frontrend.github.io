@@ -12,6 +12,8 @@ uri: http://frontrend.github.com/events/03/
 atnd: http://atnd.org/events/32232
 end: true
 location: Tokyo
+photo-url: 'http://www.flickr.com/photos/58158925@N02/5363364630/'
+photo-by: 'High Speed by Jérôme BOTTIN'
 ---
 
 イベント名 |Frontrend Vol.3 powered by CyberAgent, Inc.

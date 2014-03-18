@@ -12,6 +12,8 @@ uri: http://frontrend.github.io/events/06/
 atnd: http://frontrend.doorkeeper.jp/events/6907
 end: true
 location: Tokyo
+photo-url: 'http://www.flickr.com/photos/enerva/4302079406/'
+photo-by: 'Gear by Sonny Abesamis'
 ---
 
 イベント名 |Frontrend Vol.6 powered by CyberAgent, Inc.
