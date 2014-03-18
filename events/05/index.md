@@ -11,6 +11,7 @@ tagline: We are ONE.
 uri: http://frontrend.github.io/events/05/
 atnd: http://connpass.com/event/2351/
 end: true
+location: Tokyo
 ---
 
 イベント名 |Frontrend Vol.5 powered by CyberAgent, Inc.

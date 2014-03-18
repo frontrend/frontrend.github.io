@@ -11,6 +11,7 @@ tagline: Frontrend x Chrome
 uri: http://frontrend.github.io/events/chrome/
 atnd: http://frontrend.doorkeeper.jp/events/6456
 end: true
+location: Tokyo
 ---
 
 イベント名 |Frontrend x Chrome Tech Talk Night Extended

@@ -11,6 +11,7 @@ tagline: Continuous Integration
 uri: http://frontrend.github.io/events/06/
 atnd: http://frontrend.doorkeeper.jp/events/6907
 end: true
+location: Tokyo
 ---
 
 イベント名 |Frontrend Vol.6 powered by CyberAgent, Inc.

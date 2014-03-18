@@ -11,6 +11,7 @@ tagline: Beyond the Speed!
 uri: http://frontrend.github.com/events/03/
 atnd: http://atnd.org/events/32232
 end: true
+location: Tokyo
 ---
 
 イベント名 |Frontrend Vol.3 powered by CyberAgent, Inc.

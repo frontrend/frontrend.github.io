@@ -11,6 +11,7 @@ tagline: Key to better JavaScript developer.
 uri: http://frontrend.github.com/events/04/
 atnd: http://atnd.org/events/35720
 end: true
+location: Tokyo
 ---
 
 イベント名 |Frontrend Vol.4 powered by CyberAgent, Inc.
