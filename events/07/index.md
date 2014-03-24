@@ -9,7 +9,7 @@ description: サイバーエージェントが主催するフロントエンド�
 vol: '07'
 tagline: Web API
 uri: http://frontrend.github.io/events/07/
-atnd: http://frontrend.doorkeeper.jp/
+atnd: http://frontrend.doorkeeper.jp/events/10085
 end: false
 location: Tokyo
 photo-url: 'http://www.flickr.com/photos/blprnt/3290930185/'
@@ -19,7 +19,7 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 イベント名 |Frontrend Vol.7 powered by CyberAgent, Inc.
 ---------|---------------------------------------------------------------
 日時     |2014年04月19日（土） 14:00 – 18:00（開場13:30）
-会場     |[サイバーエージェント本社 13F セミナールームA](https://www.cyberagent.co.jp/company/access/tokyo.html)
+会場     |[サイバーエージェント本社 13F セミナールームA](http://www.cyberagent.co.jp/access_print/id=7035)
 テーマ   |Web API
 定員     |200名
 講師     |船ヶ山 慶、菅家 洋太、杉本 吉章
