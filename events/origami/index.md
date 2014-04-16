@@ -27,7 +27,7 @@ photo-by: 'Good Old Financial Times'
 参加費    |無料
 事前登録  |必要
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
-備考     |スクール形式（一部机あり）
+備考     |スクール形式（一部机あり）、逐次通訳あり（[@cssradar](https://twitter.com/cssradar)）
 
 
 <h4 id="fkei">Components and modules for front end sanity at scale</h4>
