@@ -10,7 +10,7 @@ vol: 'origami'
 tagline: Introducing Origami
 uri: http://frontrend.github.io/events/origami/
 atnd: 
-end: false
+end: true
 location: Tokyo
 photo-url: 'https://www.flickr.com/photos/ricolek/7795824600/'
 photo-by: 'Good Old Financial Times'
@@ -21,7 +21,7 @@ photo-by: 'Good Old Financial Times'
 日時     |2014年05月01日（水） 20:00 – 21:30（開場19:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
 テーマ   | Origami
-定員     |10名
+定員     | Closed
 講師     |Andrew Betts
 主催     |株式会社サイバーエージェント
 参加費    |無料
