@@ -27,7 +27,7 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 参加費    |無料
 事前登録  |必要
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
-備考     |スクール形式（一部机あり）
+備考     |スクール形式、懇親会（軽食付き）
 
 
 <h4 id="fkei">スマホブラウザでも実は使えるサウンド系API</h4>
