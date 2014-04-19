@@ -9,20 +9,20 @@ description: サイバーエージェントが主催するフロントエンド�
 vol: 'origami'
 tagline: Introducing Origami
 uri: http://frontrend.github.io/events/origami/
-atnd: 
-end: true
+atnd: http://frontrend.doorkeeper.jp/events/10798
+end: false
 location: Tokyo
 photo-url: 'https://www.flickr.com/photos/ricolek/7795824600/'
 photo-by: 'Good Old Financial Times'
 ---
 
 イベント名 |Frontrend Extend - origami -
----------|---------------------------------------------------------------
+---------|------------------------------------------------------
 日時     |2014年05月01日（水） 20:00 – 21:30（開場19:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
-テーマ   | Origami
-定員     | Closed
-講師     |Andrew Betts
+テーマ   |Origami
+定員     |50名
+講師     |Andrew Betts (FT Labs)
 主催     |株式会社サイバーエージェント
 参加費    |無料
 事前登録  |必要
@@ -30,7 +30,7 @@ photo-by: 'Good Old Financial Times'
 備考     |スクール形式（一部机あり）、逐次通訳あり（[@cssradar](https://twitter.com/cssradar)）
 
 
-<h4 id="fkei">Components and modules for front end sanity at scale</h4>
+<h4 id="andrew">Components and modules for front end sanity at scale</h4>
 
 SassのコンパイルやJavaScriptのモジュール管理、それらのキャッシュ管理などプロジェクトを開始する前にやらなければならないことは増え続けています。  
 もし、新しいプロジェクトであろうと、レガシーなプロジェクトであろうとビルドプロセスの設定を考えずに、すぐにプロジェクトを開始できるとしたら？  
