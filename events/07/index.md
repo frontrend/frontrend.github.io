@@ -10,7 +10,7 @@ vol: '07'
 tagline: Web API
 uri: http://frontrend.github.io/events/07/
 atnd: http://frontrend.doorkeeper.jp/events/10085
-end: false
+end: true
 location: Tokyo
 photo-url: 'http://www.flickr.com/photos/blprnt/3290930185/'
 photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
@@ -29,12 +29,15 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
 備考     |スクール形式、懇親会（軽食付き）
 
++ __[Frontrend/07 - Togetterまとめ](http://togetter.com/li/656950)__
 
 <h4 id="fkei">スマホブラウザでも実は使えるサウンド系API</h4>
 
 スマホブラウザでサウンドを実践的にに再生するためには、さまざまな課題があります。  
 そのような課題と解決方法をまとめて紹介します。  
 （ AudioSprite / Cache / バックグラウンド / 複数サウンド再生 / CORS ）
+
++ <span class="label secondary radius">Deck</span> - [スマホブラウザでも実は使えるサウンド系API](http://www.slideshare.net/fkei/frontrend-vol7-html5-audio)
 
 <div class="row">
     <div class="large-3 columns">
@@ -74,6 +77,8 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 <h4 id="sugimoto">WebブラウザでP2Pを実現する、WebRTCのAPIと周辺技術</h4>
 
 WebRTCの関連APIがWebブラウザで先行実装されてきました。これらのAPIと周辺技術を、デモを交えてご紹介します。（PeerConnection / STUN / NAT Traversal）
+
++ <span class="label secondary radius">Deck</span> - [WebブラウザでP2Pを実現する、WebRTCのAPIと周辺技術](http://www.slideshare.net/yoshiakisugimoto9/webrtc-slide)
 
 <div class="row">
     <div class="large-3 columns">
