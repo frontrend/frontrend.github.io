@@ -43,7 +43,7 @@ SassのコンパイルやJavaScriptのモジュール管理、それらのキャ
         <img src="/images/speakers/andrew.jpg">
     </div>
     <div class="large-9 columns"><h5>Andrew Betts <a href="https://twitter.com/triblondon">@triblondon</a></h5>
-    <p>Andrew Betts氏は、イギリスに拠点を構え、Financial Timesのウェブアプリを含む数多くの実験的なウェブプロジェクトを制作するFinancial Times Labs（通称：<a href="http://labs.ft.com/">FTLabs</a>）のファウンダーであり、同社のディレクターを務めるPHP、JavaScript開発者です。</p>
+    <p>Andrew Betts氏は、イギリスに拠点を構え、Financial Timesのウェブアプリを含む数多くの実験的なウェブプロジェクトを制作するFinancial Times Labs（通称：<a href="http://labs.ft.com/">FT Labs</a>）のファウンダーであり、同社のディレクターを務めるPHP、JavaScript開発者です。</p>
 		<p>2012年1月にFinancial Timesに買収される前まで、New International、The Economist Group、Financial Timesなどの革新的なプロジェクトに、自ら設立したコンサルティング・ファームのAssankaで8年間携わっています。</p>
     </div>
 </div>
