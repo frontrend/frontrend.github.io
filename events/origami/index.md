@@ -18,7 +18,7 @@ photo-by: 'Good Old Financial Times'
 
 イベント名 |Frontrend Extend - origami -
 ---------|------------------------------------------------------
-日時     |2014年05月01日（水） 20:00 – 21:30（開場19:30）
+日時     |2014年05月01日（水） 20:00 – 21:45（開場19:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
 テーマ   |Origami
 定員     |50名
@@ -27,7 +27,7 @@ photo-by: 'Good Old Financial Times'
 参加費    |無料
 事前登録  |必要
 タグ     |[#frontrend](https://twitter.com/search?q=%23frontrend)
-備考     |スクール形式（一部机あり）、逐次通訳あり（[@cssradar](https://twitter.com/cssradar)）
+備考     |スクール形式、逐次通訳あり（[@cssradar](https://twitter.com/cssradar)）
 
 
 <h4 id="andrew">Components and modules for front end sanity at scale</h4>
