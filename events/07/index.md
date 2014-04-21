@@ -62,6 +62,10 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 + スマホWebGLで現状どのぐらいのことができるのか
 + スマホにおけるWebGLの活用方法の模索 
 
+-
+
++ <span class="label secondary radius">Deck</span> - [スマホにおけるWebGL入門](http://www.slideshare.net/YohtaKanke/frontrend-web-glslideshare)
+
 <div class="row">
     <div class="large-3 columns">
         <img src="/images/speakers/kanke.jpg">
