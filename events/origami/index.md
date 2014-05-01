@@ -10,7 +10,7 @@ vol: 'origami'
 tagline: Introducing Origami
 uri: http://frontrend.github.io/events/origami/
 atnd: http://frontrend.doorkeeper.jp/events/10798
-end: false
+end: true
 location: Tokyo
 photo-url: 'https://www.flickr.com/photos/ricolek/7795824600/'
 photo-by: 'Good Old Financial Times'
