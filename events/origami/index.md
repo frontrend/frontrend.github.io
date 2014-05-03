@@ -21,7 +21,7 @@ photo-by: 'Good Old Financial Times'
 日時     |2014年05月01日（木） 20:00 – 21:45（開場19:30）
 会場     |[サイバーエージェント本社 17F セミナールーム](http://www.cyberagent.co.jp/access_print/id=7035)
 テーマ   |Origami
-定員     |50名
+定員     |100名
 講師     |Andrew Betts (FT Labs)
 主催     |株式会社サイバーエージェント
 参加費    |無料
@@ -37,6 +37,10 @@ SassのコンパイルやJavaScriptのモジュール管理、それらのキャ
 もし、Web Componentsが待つ未来に、プログレッシブ・エンハンスメントできるコンポーネント設計をバージョン管理つきでできるとしたら？  
 
 本セッションではFinancial Timesのラボのディレクターを務めるAndrew Betts氏が、それらの「もし」を実現するために生み出した「Origami」というフロントエンド・コンポーネント規格について紹介します。
+
+<iframe src="//player.vimeo.com/video/93723351?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/93723351">Components and modules for front end sanity at scale</a> from <a href="http://vimeo.com/frontrend">Frontrend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
++ <span class="label secondary radius">Deck</span> - [Components and modules - Andrew Betts](http://triblondon.github.io/talk-components-origami/#/)
 
 <div class="row">
     <div class="large-3 columns">

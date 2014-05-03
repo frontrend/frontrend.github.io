@@ -37,6 +37,10 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 そのような課題と解決方法をまとめて紹介します。  
 （ AudioSprite / Cache / バックグラウンド / 複数サウンド再生 / CORS ）
 
+<iframe src="//player.vimeo.com/video/93716091?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+-
+
 + <span class="label secondary radius">Deck</span> - [スマホブラウザでも実は使えるサウンド系API](http://www.slideshare.net/fkei/frontrend-vol7-html5-audio)
 
 <div class="row">
@@ -62,6 +66,8 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 + スマホWebGLで現状どのぐらいのことができるのか
 + スマホにおけるWebGLの活用方法の模索 
 
+<iframe src="//player.vimeo.com/video/93706240?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 -
 
 + <span class="label secondary radius">Deck</span> - [スマホにおけるWebGL入門](http://www.slideshare.net/YohtaKanke/frontrend-web-glslideshare)
@@ -81,6 +87,10 @@ photo-by: 'NYTimes: 2 to 1 - Germany and 1989 by Jer Thorp'
 <h4 id="sugimoto">WebブラウザでP2Pを実現する、WebRTCのAPIと周辺技術</h4>
 
 WebRTCの関連APIがWebブラウザで先行実装されてきました。これらのAPIと周辺技術を、デモを交えてご紹介します。（PeerConnection / STUN / NAT Traversal）
+
+<iframe src="//player.vimeo.com/video/93714191?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+-
 
 + <span class="label secondary radius">Deck</span> - [WebブラウザでP2Pを実現する、WebRTCのAPIと周辺技術](http://www.slideshare.net/yoshiakisugimoto9/webrtc-slide)
 
