@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『フロントエンドエンジニア養成読本』が発売中です。
-description: Frontrendメンバーによる『フロントエンドエンジニア養成読本』が発売中です。
+description: Frontrendメンバーによる『フロントエンドエンジニア養成読本』が発売中です
 published: 2013-07-02
 category: news
 tags: frontrend
