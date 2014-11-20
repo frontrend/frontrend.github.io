@@ -45,6 +45,6 @@ excerpt: フロントエンドとして10年先も生き残るためのツール
 #### UI/UXなUXのお話
 
 <div class="posts__slide">
-<iframe src="//www.slideshare.net/slideshow/embed_code/41542759" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/41545140" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </div>
 
