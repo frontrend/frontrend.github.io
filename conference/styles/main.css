@@ -891,6 +891,9 @@ nav a:hover {
     font-weight: 700;
     font-size: 1.4rem
 }
+.session__speaker a {
+  color: inherit;
+}
 
 @media only screen and (min-width: 1000px) {
     .session__speaker {
