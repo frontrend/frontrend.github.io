@@ -2,7 +2,7 @@
 layout: post
 title: Frontrend Conference が終了しました
 description: 2015年2月21日（土）にFrontrend Conferenceを開催しました。
-published: 2014-2-24
+published: 2015-2-24
 category: news
 tags: blog, frontrend, final
 excerpt: フロントエンドにフォーカスしたイベントFrontrend、今回はカンファレンスと称して、素晴らしいスピーカーを迎えて過去最大の規模でおこないました。
