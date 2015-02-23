@@ -18,6 +18,8 @@ excerpt: フロントエンドにフォーカスしたイベントFrontrend、�
 
 後日、[HTML5Experts.jp](http://html5experts.jp/)にて各スピーカーによるセッション解説記事が掲載される予定です。
 
+![](/images/2015/0221_02.jpg)
+
 ### 発表スライド
 
 #### Pragmatic Front-end Developer: From Artisan to Expert
@@ -46,7 +48,7 @@ excerpt: フロントエンドにフォーカスしたイベントFrontrend、�
 
 #### Inline layout
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/44953775" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Takazudo/inline-layout" title="Inline Layout" target="_blank">Inline Layout</a> </strong> from <strong><a href="//www.slideshare.net/Takazudo" target="_blank">Takazudo </a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/44953775" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 #### JavaScriptテストの疑問、お答えします。
 
@@ -60,7 +62,7 @@ excerpt: フロントエンドにフォーカスしたイベントFrontrend、�
 
 ##### Componentization with Gilgamesh
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/44959260" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ygoto3q/componentization-with-gilgamesh" title="Componentization with Gilgamesh" target="_blank">Componentization with Gilgamesh</a> </strong> from <strong><a href="//www.slideshare.net/ygoto3q" target="_blank">Yusuke Goto</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/44959260" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ##### API Test with Service Worker
 
@@ -74,10 +76,8 @@ http://herablog.github.io/jpn-filter.css/)
 
 ##### 5分でわかるflexbox
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/45003796" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/azusatomita3/5flexbox" title="5分で分るflexbox" target="_blank">5分で分るflexbox</a> </strong> from <strong><a href="//www.slideshare.net/azusatomita3" target="_blank">Azusa Tomita</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/45003796" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ##### Yet Another CSS Preprocessor
 
 <script async class="speakerdeck-embed" data-id="d9fa26b7786643d09fe3dd7cc007ad10" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
-![](/images/2015/0221_02.jpg)
