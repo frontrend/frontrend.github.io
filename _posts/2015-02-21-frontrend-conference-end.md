@@ -46,7 +46,7 @@ excerpt: フロントエンドにフォーカスしたイベントFrontrend、�
 
 #### Inline layout
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/44953775" width=“595” height=“485” frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Takazudo/inline-layout" title="Inline Layout" target="_blank">Inline Layout</a> </strong> from <strong><a href="//www.slideshare.net/Takazudo" target="_blank">Takazudo </a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/44953775" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Takazudo/inline-layout" title="Inline Layout" target="_blank">Inline Layout</a> </strong> from <strong><a href="//www.slideshare.net/Takazudo" target="_blank">Takazudo </a></strong> </div>
 
 #### JavaScriptテストの疑問、お答えします。
 
@@ -60,7 +60,7 @@ excerpt: フロントエンドにフォーカスしたイベントFrontrend、�
 
 ##### Componentization with Gilgamesh
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/44959260" width=“595” height=“485” frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ygoto3q/componentization-with-gilgamesh" title="Componentization with Gilgamesh" target="_blank">Componentization with Gilgamesh</a> </strong> from <strong><a href="//www.slideshare.net/ygoto3q" target="_blank">Yusuke Goto</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/44959260" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ygoto3q/componentization-with-gilgamesh" title="Componentization with Gilgamesh" target="_blank">Componentization with Gilgamesh</a> </strong> from <strong><a href="//www.slideshare.net/ygoto3q" target="_blank">Yusuke Goto</a></strong> </div>
 
 ##### API Test with Service Worker
 
@@ -74,7 +74,7 @@ http://herablog.github.io/jpn-filter.css/)
 
 ##### 5分でわかるflexbox
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/45003796" width=“595” height=“485” frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/azusatomita3/5flexbox" title="5分で分るflexbox" target="_blank">5分で分るflexbox</a> </strong> from <strong><a href="//www.slideshare.net/azusatomita3" target="_blank">Azusa Tomita</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/45003796" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/azusatomita3/5flexbox" title="5分で分るflexbox" target="_blank">5分で分るflexbox</a> </strong> from <strong><a href="//www.slideshare.net/azusatomita3" target="_blank">Azusa Tomita</a></strong> </div>
 
 ##### Yet Another CSS Preprocessor
 
