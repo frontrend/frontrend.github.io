@@ -1103,9 +1103,16 @@ nav a:hover {
     -webkit-transition: 300ms background;
     transition: 300ms background
 }
+.Button.is-disabled {
+    background-color: #999;
+}
 
 .Button:hover {
     background: #f37e7e
+}
+
+.Button:hover.is-disabled {
+    background: #999;
 }
 
 .Button>span {
@@ -1190,6 +1197,10 @@ nav a:hover {
 
 .Avatar>img {
     max-width: 100%
+}
+
+.ANCHOR {
+    color: inherit !important;
 }
 
 .NUM {
