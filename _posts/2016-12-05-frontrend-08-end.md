@@ -10,12 +10,11 @@ excerpt: 2016年12月5日（月）にFrontrend Vol.8 powered by CyberAgent, Inc.
 
 ## Frontrend Vol.8 が終了しました
 
-
 ![](/images/2016/v8_hd.jpg)
 
 2016年12月5日、渋谷マークシティでFrontrend Vol.8 powered by CyberAgent, Inc.を開催し、100名を越える方にご参加いただきました。
 
-およそ1年はの充電期間を経て、Frontrendが再始動することになりました。
+およそ1年半の充電期間を経て、Frontrendが再始動することになりました。
 
 ## 発表スライド
 
