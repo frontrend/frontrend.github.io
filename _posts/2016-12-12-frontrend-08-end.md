@@ -2,7 +2,7 @@
 layout: post
 title: Frontrend Vol.8 が終了しました
 description: 2016年12月5日（月）にFrontrend Vol.8 powered by CyberAgent, Inc.を開催しました。
-published: 2016-12-06
+published: 2016-12-12
 category: news
 tags: blog, frontrend
 excerpt: 2016年12月5日（月）にFrontrend Vol.8 powered by CyberAgent, Inc.を開催しました。
